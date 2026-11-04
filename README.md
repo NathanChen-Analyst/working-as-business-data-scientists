@@ -12,22 +12,11 @@ It is written for data analysts, product analysts, and data scientists whose out
 
 ## Day-to-day workflow (stage framework)
 
-Eight stages in three bands. The picture is the shape; the table is what you do at each stage and what exists when you are done. Every stage links to its full treatment on the [workflow page](workflow.md).
+Eight stages in three bands — what you do at each, and what exists when you are done. The full treatment of every stage, with the running example, is on the [workflow page](workflow.md); the matrix below links to each stage.
 
-<p align="center"><img src="assets/framework.svg" alt="The eight-stage workflow in three bands: Frame (stages 1–3), Analyse (stages 4–6), Act (stages 7–8); the outcome of stage 8 becomes the next ask" width="640"></p>
+<p align="center"><img src="assets/framework.svg" alt="The eight-stage workflow in three bands with an action and a result for each stage. Frame: 1 receive the ask, 2 frame the question, 3 define metrics and success. Analyse: 4 get and trust the data, 5 analyse, 6 synthesise into insight. Act: 7 recommend and communicate, 8 drive the decision and measure the outcome. The outcome of stage 8 becomes the next ask." width="860"></p>
 
-| Band | Stage | Action | Result |
-|---|---|---|---|
-| **Frame** | [1 · Receive the ask](workflow.md#stage-1--receive-the-ask) | Find out who is asking, for which decision, by when | Clarifying questions answered; a time-box agreed |
-| | [2 · Frame the question](workflow.md#stage-2--frame-the-question) | Turn the ask into testable hypotheses | Issue tree; two-sentence scope agreement |
-| | [3 · Define metrics & success](workflow.md#stage-3--define-metrics-and-success) | Agree the primary metric, guardrails, and "done" | One signed-off metric definition |
-| **Analyse** | [4 · Get & trust the data](workflow.md#stage-4--get-and-trust-the-data) | Query the right tables at the right grain; check and reconcile | Verified queries; a list of caveats |
-| | [5 · Analyse](workflow.md#stage-5--analyse) | Run the analysis the question calls for — and no more | Results with uncertainty; experiment design if needed |
-| | [6 · Synthesise into insight](workflow.md#stage-6--synthesise-into-insight) | Reduce findings to what matters, with confidence stated | Three claims, sized in business terms |
-| **Act** | [7 · Recommend & communicate](workflow.md#stage-7--recommend-and-communicate) | Lead with the recommendation, tailored to the audience | One-page memo or short deck |
-| | [8 · Drive the decision & measure the outcome](workflow.md#stage-8--drive-the-decision-and-measure-the-outcome) | Get the decision made and acted on; measure it | Decision taken; outcome measured; decision log updated |
-
-The loop ends in a **decision**, not a model. Machine learning and experimentation live inside Stage 5 as options, chosen when the question calls for them. The Frame and Act bands are where business judgment and persuasion do most of the work; the Analyse band is where technical skill does. Interviews probe all eight stages; most candidates prepare for the middle three.
+Machine learning and experimentation live inside Stage 5 as options, chosen when the question calls for them. The Frame and Act bands are where business judgment and persuasion do most of the work; the Analyse band is where technical skill does. Interviews probe all eight stages; most candidates prepare for the middle three.
 
 The framework stitches together four established ideas — Google's *Ask → Prepare → Process → Analyse → Share → Act* process, Max Shron's CoNVO scoping framework, hypothesis-driven analysis from consulting, and decision-first framing — and deliberately differs from the ML lifecycles (CRISP-DM, TDSP), which assume the deliverable is a deployed model and compress framing and communication into single phases.
 
