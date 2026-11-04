@@ -181,7 +181,7 @@ Source the data, check it, and understand its limits well enough to know what it
 
 ### Where the data lives
 
-Before you can query anything you need to know how your organisation's data platform is put together. The names differ by company; the layers are nearly universal.
+Before you can query anything you need to know how your organisation's data platform is put together. The names differ by company; the layers are nearly universal. The fuller treatment — how a warehouse works, the modelling layers, the four big platforms — is in [technical craft](competencies/technical-craft.md#1-the-data-platform).
 
 | Layer | What it is | Typical tools | What you need to know about it |
 |---|---|---|---|
