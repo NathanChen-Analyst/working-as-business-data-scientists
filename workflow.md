@@ -347,6 +347,7 @@ Deliver a recommendation, structured so the audience can act on it, in the forma
 ### Hard skills
 - Data visualisation: chart choice, decluttering, annotation, one message per chart
 - Memo and deck structure: answer first, then evidence, then detail (Pyramid Principle)
+- Translating statistics for non-technical readers — coefficients, p-values, intervals, null results — and keeping findings, interpretation, conclusions, and limitations as four labelled layers; see [communication](competencies/communication.md#explaining-statistical-results-to-non-technical-audiences)
 - Dashboards vs. one-off analyses — knowing which the situation needs
 
 ### Judgment & business skills
