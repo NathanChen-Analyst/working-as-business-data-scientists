@@ -14,7 +14,7 @@ Making the six abilities learnable by other people. Most of what senior analysts
 The four-section structure of each stage (what it is · hard skills · judgment · interview lens) doubles as a review rubric. When an analysis comes to you, ask the stage questions: was the ask framed? was the metric agreed? was the data reconciled? is there a recommendation, and would the analyst defend it? Reviewing against the workflow rather than against the output teaches the workflow.
 
 ## Using it to hire
-- The [matrix](../README.md#the-matrix-stages--abilities) is a hiring rubric: decide which abilities the role needs at which level, then design the loop to probe those stages. Most loops over-test Stage 5 and under-test Stages 1, 3, and 8.
+- The [matrix](../README.md#abilities-by-stage-the-matrix) is a hiring rubric: decide which abilities the role needs at which level, then design the loop to probe those stages. Most loops over-test Stage 5 and under-test Stages 1, 3, and 8.
 - The interview lens in each stage and each competency file is a question bank with "what good looks like" attached, which is the part most question banks lack.
 - Take-homes: expect AI use; score the verification. See [Working with AI](../competencies/working-with-ai.md).
 

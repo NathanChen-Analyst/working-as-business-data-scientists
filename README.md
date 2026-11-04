@@ -33,20 +33,20 @@ The framework stitches together four established ideas — Google's *Ask → Pre
 
 ---
 
-## The matrix: stages × abilities
+## Abilities by stage (the matrix)
 
 A workflow alone hides whatever happens *across* stages — collaboration most of all, which is everywhere and therefore nowhere. So the eight stages are crossed with six abilities:
 
-| | Technical craft | Analytical reasoning | Business acumen | Communication | Collaboration & influence | Ownership & delivery |
+| | [Technical craft](competencies/technical-craft.md) | [Analytical reasoning](competencies/analytical-reasoning.md) | [Business acumen](competencies/business-acumen.md) | [Communication](competencies/communication.md) | [Collaboration & influence](competencies/collaboration.md) | [Ownership & delivery](competencies/ownership-and-delivery.md) |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|
-| **1 Receive the ask** | ○ | ● | ●● | ● | ●● | ○ |
-| **2 Frame the question** | ○ | ●● | ●● | ● | ● | ● |
-| **3 Define metrics & success** | ● | ●● | ●● | ● | ●● | ○ |
-| **4 Get & trust the data** | ●● | ● | ○ | ○ | ●● | ● |
-| **5 Analyse** | ●● | ●● | ● | ○ | ● | ● |
-| **6 Synthesise into insight** | ● | ●● | ●● | ● | ○ | ○ |
-| **7 Recommend & communicate** | ○ | ● | ●● | ●● | ●● | ● |
-| **8 Drive the decision & measure** | ○ | ○ | ●● | ● | ●● | ●● |
+| **[1 Receive the ask](workflow.md#stage-1--receive-the-ask)** | ○ | ● | ●● | ● | ●● | ○ |
+| **[2 Frame the question](workflow.md#stage-2--frame-the-question)** | ○ | ●● | ●● | ● | ● | ● |
+| **[3 Define metrics & success](workflow.md#stage-3--define-metrics-and-success)** | ● | ●● | ●● | ● | ●● | ○ |
+| **[4 Get & trust the data](workflow.md#stage-4--get-and-trust-the-data)** | ●● | ● | ○ | ○ | ●● | ● |
+| **[5 Analyse](workflow.md#stage-5--analyse)** | ●● | ●● | ● | ○ | ● | ● |
+| **[6 Synthesise into insight](workflow.md#stage-6--synthesise-into-insight)** | ● | ●● | ●● | ● | ○ | ○ |
+| **[7 Recommend & communicate](workflow.md#stage-7--recommend-and-communicate)** | ○ | ● | ●● | ●● | ●● | ● |
+| **[8 Drive the decision & measure](workflow.md#stage-8--drive-the-decision-and-measure-the-outcome)** | ○ | ○ | ●● | ● | ●● | ●● |
 
 ●● primary · ● supporting · ○ minor
 
@@ -54,9 +54,7 @@ A workflow alone hides whatever happens *across* stages — collaboration most o
 
 **How to read it.** Down a column: where an ability is exercised, and so where to practise it. Across a row: what a stage demands, and so what an interviewer probing that stage is really assessing.
 
-Each ability has a file in [`competencies/`](competencies/) with a definition, where it shows up in the workflow, what good looks like at junior, mid, and senior level, and the questions that probe it:
-
-[Technical craft](competencies/technical-craft.md) · [Analytical reasoning](competencies/analytical-reasoning.md) · [Business acumen](competencies/business-acumen.md) · [Communication](competencies/communication.md) · [Collaboration & influence](competencies/collaboration.md) · [Ownership & delivery](competencies/ownership-and-delivery.md)
+Each column header links to that ability's file in [`competencies/`](competencies/): a definition, the concepts and frameworks it draws on, where it shows up in the workflow, what good looks like at junior, mid, and senior level, and the questions that probe it. Each row links to that stage on the workflow page.
 
 ---
 

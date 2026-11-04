@@ -21,7 +21,7 @@ This file is cross-cutting, like [collaboration](collaboration.md): it is exerci
 | [7 Recommend & communicate](../workflow.md#stage-7--recommend-and-communicate) | Drafts and tightens memos and decks | Does not know what this audience needs to hear | The message, and standing behind it |
 | [8 Drive the decision](../workflow.md#stage-8--drive-the-decision-and-measure-the-outcome) | Sets up monitoring; drafts follow-ups | Cannot chase a decision or notice it was ignored | Follow-through |
 
-Read the third column against the [stages × abilities matrix](../README.md#the-matrix-stages--abilities): agents are strongest where technical craft is primary and weakest where collaboration and business acumen are primary. That is the whole argument of this repo in one table.
+Read the third column against the [stages × abilities matrix](../README.md#abilities-by-stage-the-matrix): agents are strongest where technical craft is primary and weakest where collaboration and business acumen are primary. That is the whole argument of this repo in one table.
 
 ---
 
