@@ -8,7 +8,7 @@ definition and why it matters · where it shows up in the workflow · **the tool
 |---|---|---|
 | [Technical craft](technical-craft.md) | SQL and the data platform, statistics, experimentation mechanics, reproducible code, chart craft | 4, 5 |
 | [Analytical reasoning](analytical-reasoning.md) | Structuring ambiguity, hypotheses, method choice, causal thinking, judging a result | 2, 3, 5, 6 |
-| [Business acumen](business-acumen.md) | How the business makes money, what the decision is, what a finding is worth, which findings matter | 1, 2, 3, 6, 7, 8 |
+| [Business acumen](business-acumen.md) | The four-sentence quick read of any business or unit; how the money works; placing the question against the goal; sizing findings | 1, 2, 3, 6, 7, 8 |
 | [Communication](communication.md) | Answer-first structure, audience, charts, difficult news, handling challenge | 7 |
 | [Collaboration & influence](collaboration.md) | Working with product, data engineering, engineering, and other analysts; getting decisions made without owning them | 1, 3, 4, 7, 8 |
 | [Ownership & delivery](ownership-and-delivery.md) | Prioritising, time-boxing, managing up, following through, leaving things reusable | 8 |
