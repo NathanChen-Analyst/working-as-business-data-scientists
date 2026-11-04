@@ -7,8 +7,8 @@ At senior level the matrix inverts. Technical craft becomes something you review
 
 ## Read in this order
 1. The **senior column** of every ability table in [`competencies/`](../competencies/). Read them together; the pattern across them is the job description.
-2. [Stage 2 — Frame the question](../stages/02-frame-the-question.md), again, but now as the person who *reshapes* the ask rather than refines it — including declining work that will not change a decision.
-3. [Stage 3 — Define metrics](../stages/03-define-metrics.md) as the owner of the glossary rather than a contributor to it.
+2. [Stage 2 — Frame the question](../workflow.md#stage-2--frame-the-question), again, but now as the person who *reshapes* the ask rather than refines it — including declining work that will not change a decision.
+3. [Stage 3 — Define metrics](../workflow.md#stage-3--define-metrics-and-success) as the owner of the glossary rather than a contributor to it.
 4. [Working with AI](../competencies/working-with-ai.md), the evaluation section: deciding what your team may delegate and what verification it requires is now your call.
 
 ## What changes

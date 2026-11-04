@@ -8,14 +8,14 @@
 
 | Stage | What it looks like there | Weight |
 |---|---|:-:|
-| [1 Receive the ask](../stages/01-receive-the-ask.md) | | |
-| [2 Frame the question](../stages/02-frame-the-question.md) | | |
-| [3 Define metrics & success](../stages/03-define-metrics.md) | | |
-| [4 Get & trust the data](../stages/04-get-and-trust-the-data.md) | | |
-| [5 Analyse](../stages/05-analyse.md) | | |
-| [6 Synthesise](../stages/06-synthesise.md) | | |
-| [7 Recommend & communicate](../stages/07-recommend-and-communicate.md) | | |
-| [8 Drive the decision](../stages/08-drive-the-decision.md) | | |
+| [1 Receive the ask](../workflow.md#stage-1--receive-the-ask) | | |
+| [2 Frame the question](../workflow.md#stage-2--frame-the-question) | | |
+| [3 Define metrics & success](../workflow.md#stage-3--define-metrics-and-success) | | |
+| [4 Get & trust the data](../workflow.md#stage-4--get-and-trust-the-data) | | |
+| [5 Analyse](../workflow.md#stage-5--analyse) | | |
+| [6 Synthesise](../workflow.md#stage-6--synthesise-into-insight) | | |
+| [7 Recommend & communicate](../workflow.md#stage-7--recommend-and-communicate) | | |
+| [8 Drive the decision](../workflow.md#stage-8--drive-the-decision-and-measure-the-outcome) | | |
 
 ## The substance of the ability
 

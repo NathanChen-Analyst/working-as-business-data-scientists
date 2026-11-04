@@ -7,16 +7,16 @@ Two things, and they pull against each other. You need enough technical craft to
 
 ## Read in this order
 1. The [README](../README.md) top to bottom — the framework, the matrix, the running example. Twenty minutes. The goal is to be able to describe the job in a paragraph.
-2. [Stage 2 — Frame the question](../stages/02-frame-the-question.md). It is fully worked and it is the stage interviews probe most. Read the interview answers twice.
-3. [Stage 4 — Get and trust the data](../stages/04-get-and-trust-the-data.md). SQL is the single most-tested hard skill; the resources there are enough.
-4. [Stage 7 — Recommend and communicate](../stages/07-recommend-and-communicate.md). Being able to write one good memo is a bigger differentiator at entry level than any modelling skill.
+2. [Stage 2 — Frame the question](../workflow.md#stage-2--frame-the-question). It is fully worked and it is the stage interviews probe most. Read the interview answers twice.
+3. [Stage 4 — Get and trust the data](../workflow.md#stage-4--get-and-trust-the-data). SQL is the single most-tested hard skill; the resources there are enough.
+4. [Stage 7 — Recommend and communicate](../workflow.md#stage-7--recommend-and-communicate). Being able to write one good memo is a bigger differentiator at entry level than any modelling skill.
 5. The [running example](../running-example/) — read the memo and the SQL, then try to reproduce them on a dataset of your own.
 
 ## What to build
 A portfolio with **one** end-to-end case done well beats five notebooks. Pick a public dataset, invent a plausible stakeholder and decision, and produce the artefacts: the framed question, the data checks, the analysis, the memo. The [running example](../running-example/) is the template. Put it in a public repo and link it from your CV.
 
 ## Interview preparation
-- [Stage 2](../stages/02-frame-the-question.md) and [Stage 5](../stages/05-analyse.md) interview lenses for cases
+- [Stage 2](../workflow.md#stage-2--frame-the-question) and [Stage 5](../workflow.md#stage-5--analyse) interview lenses for cases
 - [SQL practice](../interview/sql-practice.md) until a funnel-by-step query and a retention cohort query are automatic
 - One STAR story per ability — see the [story bank template](../interview/behavioural-story-bank-template.md). At entry level, stories from study projects, part-time work, or anywhere you had to persuade someone count.
 - [Working with AI](../competencies/working-with-ai.md): you will be asked how you use it, and take-homes will be checked for whether you verified what it gave you.

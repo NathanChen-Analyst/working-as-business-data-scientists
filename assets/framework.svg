@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="670" viewBox="0 0 740 670" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#57606a"/>
+    </marker>
+    <marker id="arrow-loop" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#8a8f98"/>
+    </marker>
+  </defs>
+
+  <!-- ====== BAND 1 · FRAME ====== -->
+  <rect x="40" y="20" width="560" height="208" rx="14" fill="#fff6e8" stroke="#f0b35b" stroke-width="1.5"/>
+  <text x="64" y="50" font-size="13" font-weight="700" letter-spacing="1.5" fill="#9a5b00">FRAME</text>
+  <text x="128" y="50" font-size="13" fill="#9a5b00">· business judgment</text>
+
+  <rect x="64" y="66" width="512" height="40" rx="8" fill="#ffffff" stroke="#e3b878" stroke-width="1.2"/>
+  <text x="84" y="92" font-size="15" fill="#1f2328"><tspan font-weight="700" fill="#9a5b00">1</tspan><tspan dx="14">Receive the ask</tspan></text>
+  <text x="556" y="92" font-size="12" fill="#6e7781" text-anchor="end">who is asking, what decision, what they need</text>
+
+  <rect x="64" y="120" width="512" height="40" rx="8" fill="#ffffff" stroke="#e3b878" stroke-width="1.2"/>
+  <text x="84" y="146" font-size="15" fill="#1f2328"><tspan font-weight="700" fill="#9a5b00">2</tspan><tspan dx="14">Frame the question</tspan></text>
+  <text x="556" y="146" font-size="12" fill="#6e7781" text-anchor="end">testable hypotheses, explicit scope</text>
+
+  <rect x="64" y="174" width="512" height="40" rx="8" fill="#ffffff" stroke="#e3b878" stroke-width="1.2"/>
+  <text x="84" y="200" font-size="15" fill="#1f2328"><tspan font-weight="700" fill="#9a5b00">3</tspan><tspan dx="14">Define metrics &amp; success</tspan></text>
+  <text x="556" y="200" font-size="12" fill="#6e7781" text-anchor="end">agreed before touching data</text>
+
+  <!-- connector band 1 → 2 -->
+  <line x1="320" y1="228" x2="320" y2="254" stroke="#57606a" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- ====== BAND 2 · ANALYSE ====== -->
+  <rect x="40" y="256" width="560" height="208" rx="14" fill="#eaf2fc" stroke="#5b9bd5" stroke-width="1.5"/>
+  <text x="64" y="286" font-size="13" font-weight="700" letter-spacing="1.5" fill="#1f4e79">ANALYSE</text>
+  <text x="146" y="286" font-size="13" fill="#1f4e79">· technical craft</text>
+
+  <rect x="64" y="302" width="512" height="40" rx="8" fill="#ffffff" stroke="#8fb8e0" stroke-width="1.2"/>
+  <text x="84" y="328" font-size="15" fill="#1f2328"><tspan font-weight="700" fill="#1f4e79">4</tspan><tspan dx="14">Get &amp; trust the data</tspan></text>
+  <text x="556" y="328" font-size="12" fill="#6e7781" text-anchor="end">SQL, quality checks, reconciliation</text>
+
+  <rect x="64" y="356" width="512" height="40" rx="8" fill="#ffffff" stroke="#8fb8e0" stroke-width="1.2"/>
+  <text x="84" y="382" font-size="15" fill="#1f2328"><tspan font-weight="700" fill="#1f4e79">5</tspan><tspan dx="14">Analyse</tspan></text>
+  <text x="556" y="382" font-size="12" fill="#6e7781" text-anchor="end">descriptive · diagnostic · experimental · causal</text>
+
+  <rect x="64" y="410" width="512" height="40" rx="8" fill="#ffffff" stroke="#8fb8e0" stroke-width="1.2"/>
+  <text x="84" y="436" font-size="15" fill="#1f2328"><tspan font-weight="700" fill="#1f4e79">6</tspan><tspan dx="14">Synthesise into insight</tspan></text>
+  <text x="556" y="436" font-size="12" fill="#6e7781" text-anchor="end">a few claims, with stated confidence</text>
+
+  <!-- connector band 2 → 3 -->
+  <line x1="320" y1="464" x2="320" y2="490" stroke="#57606a" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- ====== BAND 3 · ACT ====== -->
+  <rect x="40" y="492" width="560" height="154" rx="14" fill="#eaf7ee" stroke="#5cb876" stroke-width="1.5"/>
+  <text x="64" y="522" font-size="13" font-weight="700" letter-spacing="1.5" fill="#1e5631">ACT</text>
+  <text x="104" y="522" font-size="13" fill="#1e5631">· persuasion &amp; follow-through</text>
+
+  <rect x="64" y="538" width="512" height="40" rx="8" fill="#ffffff" stroke="#8fcfa0" stroke-width="1.2"/>
+  <text x="84" y="564" font-size="15" fill="#1f2328"><tspan font-weight="700" fill="#1e5631">7</tspan><tspan dx="14">Recommend &amp; communicate</tspan></text>
+  <text x="556" y="564" font-size="12" fill="#6e7781" text-anchor="end">answer first, tailored, defended</text>
+
+  <rect x="64" y="592" width="512" height="40" rx="8" fill="#ffffff" stroke="#8fcfa0" stroke-width="1.2"/>
+  <text x="84" y="618" font-size="15" fill="#1f2328"><tspan font-weight="700" fill="#1e5631">8</tspan><tspan dx="14">Drive the decision &amp; measure the outcome</tspan></text>
+  <text x="556" y="618" font-size="12" fill="#6e7781" text-anchor="end">decided, acted on, measured</text>
+
+  <!-- ====== LOOP: stage 8 → stage 1 ====== -->
+  <path d="M 600 612 H 660 Q 684 612 684 588 V 110 Q 684 86 660 86 H 606" fill="none" stroke="#8a8f98" stroke-width="1.5" stroke-dasharray="5 5" marker-end="url(#arrow-loop)"/>
+  <g transform="translate(708 349) rotate(-90)">
+    <text x="0" y="0" font-size="12" fill="#57606a" text-anchor="middle">the outcome becomes the next ask</text>
+  </g>
+
+</svg>

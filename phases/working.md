@@ -6,8 +6,8 @@
 Closing the gap between doing analysis and being useful. In the matrix, the stages where you were trained (4–6) are not the stages where most of the value is created (1–3, 7–8). The first three years are about becoming good at the second group.
 
 ## Read in this order
-1. [Stage 1 — Receive the ask](../stages/01-receive-the-ask.md) and [Stage 3 — Define metrics](../stages/03-define-metrics.md). The two stages most often skipped by people who can already write SQL, and the two that most often sink a project.
-2. [Stage 8 — Drive the decision](../stages/08-drive-the-decision.md). If your analyses are being delivered but not acted on, this is why.
+1. [Stage 1 — Receive the ask](../workflow.md#stage-1--receive-the-ask) and [Stage 3 — Define metrics](../workflow.md#stage-3--define-metrics-and-success). The two stages most often skipped by people who can already write SQL, and the two that most often sink a project.
+2. [Stage 8 — Drive the decision](../workflow.md#stage-8--drive-the-decision-and-measure-the-outcome). If your analyses are being delivered but not acted on, this is why.
 3. [Collaboration & influence](../competencies/collaboration.md) — the whole file. It is the most pervasive ability in the workflow and the one with the least formal training.
 4. [Working with AI](../competencies/working-with-ai.md) — to move from using agents for syntax to using them for the thinking you would otherwise skip.
 

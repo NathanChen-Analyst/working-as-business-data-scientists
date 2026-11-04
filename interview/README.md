@@ -1,6 +1,6 @@
 # Interview preparation
 
-Cross-cutting interview material. Stage-specific questions live in `stages/`; ability-specific behavioural questions live in `competencies/`. This folder holds the things that don't belong to one stage.
+Cross-cutting interview material. Stage-specific questions live in the [workflow page](../workflow.md); ability-specific behavioural questions live in `competencies/`. This folder holds the things that don't belong to one stage.
 
 | File | What it is |
 |---|---|

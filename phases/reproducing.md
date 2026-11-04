@@ -7,7 +7,7 @@ Making the six abilities learnable by other people. Most of what senior analysts
 
 ## Using this repo to onboard
 - **Week one:** the [README](../README.md) and the [running example](../running-example/). The goal is a shared vocabulary — "that's a Stage 3 problem" should mean something by Friday.
-- **First month:** one real ask, taken through all eight stages with a review at each. [Stage 2](../stages/02-frame-the-question.md) and [Stage 7](../stages/07-recommend-and-communicate.md) are where the reviews matter most.
+- **First month:** one real ask, taken through all eight stages with a review at each. [Stage 2](../workflow.md#stage-2--frame-the-question) and [Stage 7](../workflow.md#stage-7--recommend-and-communicate) are where the reviews matter most.
 - **First quarter:** the junior column of each [competency](../competencies/) table as a shared, explicit expectation — written down, not assumed.
 
 ## Using it to review
@@ -15,7 +15,7 @@ The four-section structure of each stage (what it is · hard skills · judgment 
 
 ## Using it to hire
 - The [matrix](../README.md#the-matrix-stages--abilities) is a hiring rubric: decide which abilities the role needs at which level, then design the loop to probe those stages. Most loops over-test Stage 5 and under-test Stages 1, 3, and 8.
-- The interview lens in each stage file and competency file is a question bank with "what good looks like" attached, which is the part most question banks lack.
+- The interview lens in each stage and each competency file is a question bank with "what good looks like" attached, which is the part most question banks lack.
 - Take-homes: expect AI use; score the verification. See [Working with AI](../competencies/working-with-ai.md).
 
 ## Using it to mentor

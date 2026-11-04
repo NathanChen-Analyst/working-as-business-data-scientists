@@ -10,14 +10,14 @@
 
 | Stage | What collaboration looks like there | Weight |
 |---|---|:-:|
-| [1 Receive the ask](../stages/01-receive-the-ask.md) | Stakeholder discovery; reading what's really being asked; finding out who else cares | ●● |
-| [2 Frame the question](../stages/02-frame-the-question.md) | Agreeing scope in writing; treating the stakeholder's theory as one hypothesis without dismissing it | ● |
-| [3 Define metrics & success](../stages/03-define-metrics.md) | Negotiating one metric definition across three people who each have their own | ●● |
-| [4 Get & trust the data](../stages/04-get-and-trust-the-data.md) | Working with data engineering; reporting data issues usefully; knowing what's cheap vs. expensive to ask for | ●● |
-| [5 Analyse](../stages/05-analyse.md) | Coordinating experiment instrumentation and launch with engineering; peer review of analysis | ● |
-| [6 Synthesise](../stages/06-synthesise.md) | Pressure-testing conclusions with a colleague before they go out | ○ |
-| [7 Recommend & communicate](../stages/07-recommend-and-communicate.md) | Pre-wiring the audience; handling pushback; tailoring to each stakeholder | ●● |
-| [8 Drive the decision](../stages/08-drive-the-decision.md) | Chasing the decision; getting engineering time committed; closing the loop | ●● |
+| [1 Receive the ask](../workflow.md#stage-1--receive-the-ask) | Stakeholder discovery; reading what's really being asked; finding out who else cares | ●● |
+| [2 Frame the question](../workflow.md#stage-2--frame-the-question) | Agreeing scope in writing; treating the stakeholder's theory as one hypothesis without dismissing it | ● |
+| [3 Define metrics & success](../workflow.md#stage-3--define-metrics-and-success) | Negotiating one metric definition across three people who each have their own | ●● |
+| [4 Get & trust the data](../workflow.md#stage-4--get-and-trust-the-data) | Working with data engineering; reporting data issues usefully; knowing what's cheap vs. expensive to ask for | ●● |
+| [5 Analyse](../workflow.md#stage-5--analyse) | Coordinating experiment instrumentation and launch with engineering; peer review of analysis | ● |
+| [6 Synthesise](../workflow.md#stage-6--synthesise-into-insight) | Pressure-testing conclusions with a colleague before they go out | ○ |
+| [7 Recommend & communicate](../workflow.md#stage-7--recommend-and-communicate) | Pre-wiring the audience; handling pushback; tailoring to each stakeholder | ●● |
+| [8 Drive the decision](../workflow.md#stage-8--drive-the-decision-and-measure-the-outcome) | Chasing the decision; getting engineering time committed; closing the loop | ●● |
 
 ---
 

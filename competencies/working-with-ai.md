@@ -12,14 +12,14 @@ This file is cross-cutting, like [collaboration](collaboration.md): it is exerci
 
 | Stage | What the agent does well | Where it fails | What stays yours |
 |---|---|---|:-:|
-| [1 Receive the ask](../stages/01-receive-the-ask.md) | Summarises the thread; lists obvious clarifying questions | Does not know who needs the answer or why | The conversation |
-| [2 Frame the question](../stages/02-frame-the-question.md) | Generates issue trees and hypotheses | Generates too many; cannot rank by what the data can test | The pruning and the scope |
-| [3 Define metrics](../stages/03-define-metrics.md) | Proposes metrics and guardrails | Invents definitions that conflict with the existing glossary | The negotiation |
-| [4 Get & trust the data](../stages/04-get-and-trust-the-data.md) | Writes SQL fast; drafts quality checks | Fabricates column names; assumes a grain; joins that fan out | Specification and verification |
-| [5 Analyse](../stages/05-analyse.md) | First-pass EDA, segmentation, power calculations, analysis plans | Fits models you did not need; finds a significant segment if allowed to look | Method choice; pre-registration |
-| [6 Synthesise](../stages/06-synthesise.md) | Lists findings; pressure-tests a conclusion when asked | Reports fifteen findings with equal confidence | Choosing three and stating confidence |
-| [7 Recommend & communicate](../stages/07-recommend-and-communicate.md) | Drafts and tightens memos and decks | Does not know what this audience needs to hear | The message, and standing behind it |
-| [8 Drive the decision](../stages/08-drive-the-decision.md) | Sets up monitoring; drafts follow-ups | Cannot chase a decision or notice it was ignored | Follow-through |
+| [1 Receive the ask](../workflow.md#stage-1--receive-the-ask) | Summarises the thread; lists obvious clarifying questions | Does not know who needs the answer or why | The conversation |
+| [2 Frame the question](../workflow.md#stage-2--frame-the-question) | Generates issue trees and hypotheses | Generates too many; cannot rank by what the data can test | The pruning and the scope |
+| [3 Define metrics](../workflow.md#stage-3--define-metrics-and-success) | Proposes metrics and guardrails | Invents definitions that conflict with the existing glossary | The negotiation |
+| [4 Get & trust the data](../workflow.md#stage-4--get-and-trust-the-data) | Writes SQL fast; drafts quality checks | Fabricates column names; assumes a grain; joins that fan out | Specification and verification |
+| [5 Analyse](../workflow.md#stage-5--analyse) | First-pass EDA, segmentation, power calculations, analysis plans | Fits models you did not need; finds a significant segment if allowed to look | Method choice; pre-registration |
+| [6 Synthesise](../workflow.md#stage-6--synthesise-into-insight) | Lists findings; pressure-tests a conclusion when asked | Reports fifteen findings with equal confidence | Choosing three and stating confidence |
+| [7 Recommend & communicate](../workflow.md#stage-7--recommend-and-communicate) | Drafts and tightens memos and decks | Does not know what this audience needs to hear | The message, and standing behind it |
+| [8 Drive the decision](../workflow.md#stage-8--drive-the-decision-and-measure-the-outcome) | Sets up monitoring; drafts follow-ups | Cannot chase a decision or notice it was ignored | Follow-through |
 
 Read the third column against the [stages × abilities matrix](../README.md#the-matrix-stages--abilities): agents are strongest where technical craft is primary and weakest where collaboration and business acumen are primary. That is the whole argument of this repo in one table.
 
@@ -126,7 +126,7 @@ This is now asked directly, and it is also assessed silently in take-homes.
 
 - Ethan Mollick, *Co-Intelligence* — the clearest general account of working alongside AI rather than through it
 - [Simon Willison's weblog](https://simonwillison.net/) — practical, sceptical, continuously updated on what LLM tools actually do
-- Your own stage files: the "With AI" section in each `stages/` file applies this to one stage at a time
+- The [workflow page](../workflow.md): the "With AI" section in each stage applies this one stage at a time
 
 ---
 
