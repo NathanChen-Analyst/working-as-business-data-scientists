@@ -1,110 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="736" viewBox="0 0 920 736" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="876" viewBox="0 0 760 876" font-family="'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif">
   <defs>
-    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
-      <path d="M 0 0 L 10 5 L 0 10 z" fill="#57606a"/>
-    </marker>
-    <marker id="arrow-loop" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
-      <path d="M 0 0 L 10 5 L 0 10 z" fill="#8a8f98"/>
-    </marker>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#57606a"/></marker>
+    <marker id="arrow-loop" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8a8f98"/></marker>
   </defs>
-
-  <!-- column headers -->
-  <text x="94" y="22" font-size="11" font-weight="700" letter-spacing="1.2" fill="#8a8f98">STAGE</text>
-  <text x="330" y="22" font-size="11" font-weight="700" letter-spacing="1.2" fill="#8a8f98">ACTION</text>
-  <text x="600" y="22" font-size="11" font-weight="700" letter-spacing="1.2" fill="#8a8f98">RESULT</text>
-
-  <!-- ====== FRAME ====== -->
-  <rect x="40" y="34" width="800" height="214" rx="14" fill="#fff6e8" stroke="#f0b35b" stroke-width="1.5"/>
-  <text x="64" y="62" font-size="13" font-weight="700" letter-spacing="1.5" fill="#9a5b00">FRAME</text>
-  <text x="128" y="62" font-size="13" fill="#9a5b00">· business judgment</text>
-
-  <g>
-    <rect x="64" y="76" width="752" height="46" rx="8" fill="#ffffff" stroke="#e3b878" stroke-width="1.2"/>
-    <text x="84" y="104" font-size="15" fill="#1f2328"><tspan font-weight="700" fill="#9a5b00">1</tspan><tspan dx="12">Receive the ask</tspan></text>
-    <text x="330" y="98" font-size="12.5" fill="#3d444d">Find out who is asking,</text>
-    <text x="330" y="114" font-size="12.5" fill="#3d444d">for which decision, by when</text>
-    <text x="588" y="98" font-size="12.5" fill="#3d444d"><tspan fill="#9a5b00">→</tspan><tspan dx="6">Clarifying questions answered</tspan></text>
-    <text x="600" y="114" font-size="12.5" fill="#3d444d">Time-box agreed</text>
-  </g>
-  <g>
-    <rect x="64" y="132" width="752" height="46" rx="8" fill="#ffffff" stroke="#e3b878" stroke-width="1.2"/>
-    <text x="84" y="160" font-size="15" fill="#1f2328"><tspan font-weight="700" fill="#9a5b00">2</tspan><tspan dx="12">Frame the question</tspan></text>
-    <text x="330" y="154" font-size="12.5" fill="#3d444d">Turn the ask into</text>
-    <text x="330" y="170" font-size="12.5" fill="#3d444d">testable hypotheses</text>
-    <text x="588" y="154" font-size="12.5" fill="#3d444d"><tspan fill="#9a5b00">→</tspan><tspan dx="6">Issue tree</tspan></text>
-    <text x="600" y="170" font-size="12.5" fill="#3d444d">Two-sentence scope agreement</text>
-  </g>
-  <g>
-    <rect x="64" y="188" width="752" height="46" rx="8" fill="#ffffff" stroke="#e3b878" stroke-width="1.2"/>
-    <text x="84" y="216" font-size="15" fill="#1f2328"><tspan font-weight="700" fill="#9a5b00">3</tspan><tspan dx="12">Define metrics &amp; success</tspan></text>
-    <text x="330" y="210" font-size="12.5" fill="#3d444d">Agree the primary metric,</text>
-    <text x="330" y="226" font-size="12.5" fill="#3d444d">guardrails, and what "done" means</text>
-    <text x="588" y="210" font-size="12.5" fill="#3d444d"><tspan fill="#9a5b00">→</tspan><tspan dx="6">One signed-off metric definition</tspan></text>
-  </g>
-
-  <line x1="440" y1="248" x2="440" y2="274" stroke="#57606a" stroke-width="1.5" marker-end="url(#arrow)"/>
-
-  <!-- ====== ANALYSE ====== -->
-  <rect x="40" y="276" width="800" height="214" rx="14" fill="#eaf2fc" stroke="#5b9bd5" stroke-width="1.5"/>
-  <text x="64" y="304" font-size="13" font-weight="700" letter-spacing="1.5" fill="#1f4e79">ANALYSE</text>
-  <text x="146" y="304" font-size="13" fill="#1f4e79">· technical craft</text>
-
-  <g>
-    <rect x="64" y="318" width="752" height="46" rx="8" fill="#ffffff" stroke="#8fb8e0" stroke-width="1.2"/>
-    <text x="84" y="346" font-size="15" fill="#1f2328"><tspan font-weight="700" fill="#1f4e79">4</tspan><tspan dx="12">Get &amp; trust the data</tspan></text>
-    <text x="330" y="340" font-size="12.5" fill="#3d444d">Query the right tables at the right grain;</text>
-    <text x="330" y="356" font-size="12.5" fill="#3d444d">check quality, reconcile</text>
-    <text x="588" y="340" font-size="12.5" fill="#3d444d"><tspan fill="#1f4e79">→</tspan><tspan dx="6">Verified queries</tspan></text>
-    <text x="600" y="356" font-size="12.5" fill="#3d444d">List of caveats</text>
-  </g>
-  <g>
-    <rect x="64" y="374" width="752" height="46" rx="8" fill="#ffffff" stroke="#8fb8e0" stroke-width="1.2"/>
-    <text x="84" y="402" font-size="15" fill="#1f2328"><tspan font-weight="700" fill="#1f4e79">5</tspan><tspan dx="12">Analyse</tspan></text>
-    <text x="330" y="396" font-size="12.5" fill="#3d444d">Run the analysis the question calls for</text>
-    <text x="330" y="412" font-size="12.5" fill="#3d444d">— descriptive, diagnostic, experimental, causal</text>
-    <text x="588" y="396" font-size="12.5" fill="#3d444d"><tspan fill="#1f4e79">→</tspan><tspan dx="6">Results with uncertainty stated</tspan></text>
-    <text x="600" y="412" font-size="12.5" fill="#3d444d">Experiment design, if needed</text>
-  </g>
-  <g>
-    <rect x="64" y="430" width="752" height="46" rx="8" fill="#ffffff" stroke="#8fb8e0" stroke-width="1.2"/>
-    <text x="84" y="458" font-size="15" fill="#1f2328"><tspan font-weight="700" fill="#1f4e79">6</tspan><tspan dx="12">Synthesise into insight</tspan></text>
-    <text x="330" y="452" font-size="12.5" fill="#3d444d">Reduce findings to what matters,</text>
-    <text x="330" y="468" font-size="12.5" fill="#3d444d">with confidence stated</text>
-    <text x="588" y="452" font-size="12.5" fill="#3d444d"><tspan fill="#1f4e79">→</tspan><tspan dx="6">Three claims,</tspan></text>
-    <text x="600" y="468" font-size="12.5" fill="#3d444d">sized in business terms</text>
-  </g>
-
-  <line x1="440" y1="490" x2="440" y2="516" stroke="#57606a" stroke-width="1.5" marker-end="url(#arrow)"/>
-
-  <!-- ====== ACT ====== -->
-  <rect x="40" y="518" width="800" height="158" rx="14" fill="#eaf7ee" stroke="#5cb876" stroke-width="1.5"/>
-  <text x="64" y="546" font-size="13" font-weight="700" letter-spacing="1.5" fill="#1e5631">ACT</text>
-  <text x="104" y="546" font-size="13" fill="#1e5631">· persuasion &amp; follow-through</text>
-
-  <g>
-    <rect x="64" y="560" width="752" height="46" rx="8" fill="#ffffff" stroke="#8fcfa0" stroke-width="1.2"/>
-    <text x="84" y="588" font-size="15" fill="#1f2328"><tspan font-weight="700" fill="#1e5631">7</tspan><tspan dx="12">Recommend &amp; communicate</tspan></text>
-    <text x="330" y="582" font-size="12.5" fill="#3d444d">Lead with the recommendation,</text>
-    <text x="330" y="598" font-size="12.5" fill="#3d444d">tailored to the audience</text>
-    <text x="588" y="582" font-size="12.5" fill="#3d444d"><tspan fill="#1e5631">→</tspan><tspan dx="6">One-page memo</tspan></text>
-    <text x="600" y="598" font-size="12.5" fill="#3d444d">or short deck</text>
-  </g>
-  <g>
-    <rect x="64" y="616" width="752" height="46" rx="8" fill="#ffffff" stroke="#8fcfa0" stroke-width="1.2"/>
-    <text x="84" y="638" font-size="15" fill="#1f2328"><tspan font-weight="700" fill="#1e5631">8</tspan><tspan dx="12">Drive the decision</tspan></text>
-    <text x="104" y="654" font-size="15" fill="#1f2328">&amp; measure the outcome</text>
-    <text x="330" y="638" font-size="12.5" fill="#3d444d">Get the decision made and acted on;</text>
-    <text x="330" y="654" font-size="12.5" fill="#3d444d">measure whether it worked</text>
-    <text x="588" y="638" font-size="12.5" fill="#3d444d"><tspan fill="#1e5631">→</tspan><tspan dx="6">Decision taken; outcome measured</tspan></text>
-    <text x="600" y="654" font-size="12.5" fill="#3d444d">Decision log updated</text>
-  </g>
-
-  <!-- ====== LOOP ====== -->
-  <path d="M 840 639 H 870 Q 892 639 892 617 V 121 Q 892 99 870 99 H 846" fill="none" stroke="#8a8f98" stroke-width="1.5" stroke-dasharray="5 5" marker-end="url(#arrow-loop)"/>
-  <g transform="translate(910 369) rotate(-90)">
-    <text x="0" y="0" font-size="12" fill="#57606a" text-anchor="middle">the outcome becomes the next ask</text>
-  </g>
-
-  <!-- ====== Footer ====== -->
-  <text x="440" y="712" font-size="12.5" fill="#6e7781" text-anchor="middle">The loop ends in a decision, not a model.</text>
+    <rect x="40" y="24" width="640" height="276" rx="14" fill="#fff6e8" stroke="#f0b35b" stroke-width="1.5"/>
+  <text x="64" y="52" font-size="12.5" font-weight="700" letter-spacing="1.8" fill="#9a5b00">FRAME</text>
+  <text x="126" y="52" font-size="12.5" fill="#9a5b00">· business judgment</text>
+  <rect x="64" y="68" width="592" height="66" rx="9" fill="#ffffff" stroke="#e3b878" stroke-width="1.2"/>
+  <text x="82" y="93" font-size="16" font-weight="700" fill="#111418"><tspan fill="#9a5b00">1</tspan><tspan dx="11">Receive the ask</tspan></text>
+  <text x="110" y="112" font-size="11.5" fill="#6e7781"><tspan font-weight="700" font-size="9.5" letter-spacing="1.2" fill="#9a5b00">ACTION</tspan><tspan dx="8">Find out who is asking, for which decision, by when</tspan></text>
+  <text x="110" y="127" font-size="11.5" fill="#6e7781"><tspan font-weight="700" font-size="9.5" letter-spacing="1.2" fill="#9a5b00">RESULT</tspan><tspan dx="8">Clarifying questions answered · time-box agreed</tspan></text>
+  <rect x="64" y="144" width="592" height="66" rx="9" fill="#ffffff" stroke="#e3b878" stroke-width="1.2"/>
+  <text x="82" y="169" font-size="16" font-weight="700" fill="#111418"><tspan fill="#9a5b00">2</tspan><tspan dx="11">Frame the question</tspan></text>
+  <text x="110" y="188" font-size="11.5" fill="#6e7781"><tspan font-weight="700" font-size="9.5" letter-spacing="1.2" fill="#9a5b00">ACTION</tspan><tspan dx="8">Turn the ask into testable hypotheses</tspan></text>
+  <text x="110" y="203" font-size="11.5" fill="#6e7781"><tspan font-weight="700" font-size="9.5" letter-spacing="1.2" fill="#9a5b00">RESULT</tspan><tspan dx="8">Issue tree · two-sentence scope agreement</tspan></text>
+  <rect x="64" y="220" width="592" height="66" rx="9" fill="#ffffff" stroke="#e3b878" stroke-width="1.2"/>
+  <text x="82" y="245" font-size="16" font-weight="700" fill="#111418"><tspan fill="#9a5b00">3</tspan><tspan dx="11">Define metrics &amp; success</tspan></text>
+  <text x="110" y="264" font-size="11.5" fill="#6e7781"><tspan font-weight="700" font-size="9.5" letter-spacing="1.2" fill="#9a5b00">ACTION</tspan><tspan dx="8">Agree the primary metric, guardrails, and what “done” means</tspan></text>
+  <text x="110" y="279" font-size="11.5" fill="#6e7781"><tspan font-weight="700" font-size="9.5" letter-spacing="1.2" fill="#9a5b00">RESULT</tspan><tspan dx="8">One signed-off metric definition</tspan></text>
+  <line x1="360" y1="300" x2="360" y2="326" stroke="#57606a" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <rect x="40" y="330" width="640" height="276" rx="14" fill="#eaf2fc" stroke="#5b9bd5" stroke-width="1.5"/>
+  <text x="64" y="358" font-size="12.5" font-weight="700" letter-spacing="1.8" fill="#1f4e79">ANALYSE</text>
+  <text x="146" y="358" font-size="12.5" fill="#1f4e79">· technical craft</text>
+  <rect x="64" y="374" width="592" height="66" rx="9" fill="#ffffff" stroke="#8fb8e0" stroke-width="1.2"/>
+  <text x="82" y="399" font-size="16" font-weight="700" fill="#111418"><tspan fill="#1f4e79">4</tspan><tspan dx="11">Get &amp; trust the data</tspan></text>
+  <text x="110" y="418" font-size="11.5" fill="#6e7781"><tspan font-weight="700" font-size="9.5" letter-spacing="1.2" fill="#1f4e79">ACTION</tspan><tspan dx="8">Query the right tables at the right grain; check quality; reconcile</tspan></text>
+  <text x="110" y="433" font-size="11.5" fill="#6e7781"><tspan font-weight="700" font-size="9.5" letter-spacing="1.2" fill="#1f4e79">RESULT</tspan><tspan dx="8">Verified queries · list of caveats</tspan></text>
+  <rect x="64" y="450" width="592" height="66" rx="9" fill="#ffffff" stroke="#8fb8e0" stroke-width="1.2"/>
+  <text x="82" y="475" font-size="16" font-weight="700" fill="#111418"><tspan fill="#1f4e79">5</tspan><tspan dx="11">Analyse</tspan></text>
+  <text x="110" y="494" font-size="11.5" fill="#6e7781"><tspan font-weight="700" font-size="9.5" letter-spacing="1.2" fill="#1f4e79">ACTION</tspan><tspan dx="8">Run the analysis the question calls for — descriptive, diagnostic, experimental, causal</tspan></text>
+  <text x="110" y="509" font-size="11.5" fill="#6e7781"><tspan font-weight="700" font-size="9.5" letter-spacing="1.2" fill="#1f4e79">RESULT</tspan><tspan dx="8">Results with uncertainty stated · experiment design if needed</tspan></text>
+  <rect x="64" y="526" width="592" height="66" rx="9" fill="#ffffff" stroke="#8fb8e0" stroke-width="1.2"/>
+  <text x="82" y="551" font-size="16" font-weight="700" fill="#111418"><tspan fill="#1f4e79">6</tspan><tspan dx="11">Synthesise into insight</tspan></text>
+  <text x="110" y="570" font-size="11.5" fill="#6e7781"><tspan font-weight="700" font-size="9.5" letter-spacing="1.2" fill="#1f4e79">ACTION</tspan><tspan dx="8">Reduce findings to what matters, with confidence stated</tspan></text>
+  <text x="110" y="585" font-size="11.5" fill="#6e7781"><tspan font-weight="700" font-size="9.5" letter-spacing="1.2" fill="#1f4e79">RESULT</tspan><tspan dx="8">Three claims, sized in business terms</tspan></text>
+  <line x1="360" y1="606" x2="360" y2="632" stroke="#57606a" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <rect x="40" y="636" width="640" height="200" rx="14" fill="#eaf7ee" stroke="#5cb876" stroke-width="1.5"/>
+  <text x="64" y="664" font-size="12.5" font-weight="700" letter-spacing="1.8" fill="#1e5631">ACT</text>
+  <text x="102" y="664" font-size="12.5" fill="#1e5631">· persuasion &amp; follow-through</text>
+  <rect x="64" y="680" width="592" height="66" rx="9" fill="#ffffff" stroke="#8fcfa0" stroke-width="1.2"/>
+  <text x="82" y="705" font-size="16" font-weight="700" fill="#111418"><tspan fill="#1e5631">7</tspan><tspan dx="11">Recommend &amp; communicate</tspan></text>
+  <text x="110" y="724" font-size="11.5" fill="#6e7781"><tspan font-weight="700" font-size="9.5" letter-spacing="1.2" fill="#1e5631">ACTION</tspan><tspan dx="8">Lead with the recommendation, tailored to the audience</tspan></text>
+  <text x="110" y="739" font-size="11.5" fill="#6e7781"><tspan font-weight="700" font-size="9.5" letter-spacing="1.2" fill="#1e5631">RESULT</tspan><tspan dx="8">One-page memo or short deck</tspan></text>
+  <rect x="64" y="756" width="592" height="66" rx="9" fill="#ffffff" stroke="#8fcfa0" stroke-width="1.2"/>
+  <text x="82" y="781" font-size="16" font-weight="700" fill="#111418"><tspan fill="#1e5631">8</tspan><tspan dx="11">Drive the decision &amp; measure the outcome</tspan></text>
+  <text x="110" y="800" font-size="11.5" fill="#6e7781"><tspan font-weight="700" font-size="9.5" letter-spacing="1.2" fill="#1e5631">ACTION</tspan><tspan dx="8">Get the decision made and acted on; measure whether it worked</tspan></text>
+  <text x="110" y="815" font-size="11.5" fill="#6e7781"><tspan font-weight="700" font-size="9.5" letter-spacing="1.2" fill="#1e5631">RESULT</tspan><tspan dx="8">Decision taken · outcome measured · decision log updated</tspan></text>
+  <path d="M 680 789 H 694 Q 716 789 716 767 V 123 Q 716 101 694 101 H 686" fill="none" stroke="#8a8f98" stroke-width="1.5" stroke-dasharray="5 5" marker-end="url(#arrow-loop)"/>
+  <g transform="translate(732 445) rotate(-90)"><text x="0" y="0" font-size="11.5" fill="#57606a" text-anchor="middle">the outcome becomes the next ask</text></g>
+  <text x="360" y="864" font-size="12" fill="#6e7781" text-anchor="middle">The loop ends in a decision, not a model.</text>
 </svg>
