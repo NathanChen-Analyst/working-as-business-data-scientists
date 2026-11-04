@@ -21,6 +21,19 @@
 
 ---
 
+## The toolkit
+
+Collaboration's "frameworks" are fewer and plainer than the other abilities' — mostly named habits. The ones worth knowing by name:
+
+- **Stakeholder mapping** — *Who cares, who decides, who can block?* A two-by-two of interest × influence tells you who to pre-wire and who to inform. Stage 1 and 7.
+- **The scope agreement** — *What will I do, not do, by when?* Two sentences, in writing, before starting. Stage 2.
+- **RACI (responsible, accountable, consulted, informed)** — *Who owns which part of this?* Overkill for most analyses; invaluable for experiments, where engineering, product, and analytics each own a piece. Stage 5.
+- **Pre-wiring** — *Who should hear this before the room does?* Stage 7.
+- **Disagree and commit** — *Can I argue my case fully and then support the decision?* The alternative — relitigating decisions — costs more credibility than losing the argument. Stage 7 and 8.
+- **Non-violent pushback** — observation, impact, request: "the metric changed definition mid-quarter; it makes the trend unreadable; can we agree one definition and backfill?" Stage 3 and 4.
+
+The rest of this ability is about relationships, and is best described by who they are with.
+
 ## The five relationships
 
 ### 1. With product managers and business owners (the people who ask)
@@ -113,4 +126,4 @@ Prepare one story for each; quantify the result; add one line on what you'd do d
 
 ---
 
-*Template note: each `competencies/` file follows this structure — definition and why it matters · where it shows up in the workflow · the substance of the ability · what good looks like by level · interview lens with behavioural questions and story prompts · resources.*
+*Follows the shared structure for ability files: definition and why it matters · where it shows up in the workflow · the toolkit · how it looks in practice · what good looks like by level · interview lens · resources.*
