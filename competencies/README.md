@@ -6,7 +6,7 @@ definition and why it matters · where it shows up in the workflow · **the tool
 
 | Ability | In one line | Primary in stages |
 |---|---|---|
-| [Technical craft](technical-craft.md) | SQL and the data platform, statistics, experimentation mechanics, reproducible code, chart craft | 4, 5 |
+| [Technical craft](technical-craft.md) | SQL and the data platform, statistics, experiment mechanics, causal designs, modelling, charts — each concept defined, with the detail that matters and the trap | 4, 5 |
 | [Analytical reasoning](analytical-reasoning.md) | Structuring ambiguity, hypotheses, method choice, causal thinking, judging a result | 2, 3, 5, 6 |
 | [Business acumen](business-acumen.md) | The four-sentence quick read of any business or unit; how the money works; placing the question against the goal; sizing findings | 1, 2, 3, 6, 7, 8 |
 | [Communication](communication.md) | Answer-first structure, audience, charts, difficult news, handling challenge | 7 |
