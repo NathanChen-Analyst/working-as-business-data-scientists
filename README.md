@@ -12,20 +12,20 @@ It is written for data analysts, product analysts, and data scientists whose out
 
 ## Day-to-day workflow (stage framework)
 
-A project moves through eight stages in three bands. The picture shows the shape; the table underneath says what you do and what you hand over at each stage. The full account — every stage worked through, on one page — is [**workflow.md**](workflow.md).
+Eight stages in three bands. The picture is the shape; the table is what you do at each stage and what exists when you are done. Every stage links to its full treatment on the [workflow page](workflow.md).
 
-<p align="center"><img src="assets/framework.svg" alt="The eight-stage workflow in three bands: Frame (1 receive the ask, 2 frame the question, 3 define metrics), Analyse (4 get and trust the data, 5 analyse, 6 synthesise), Act (7 recommend and communicate, 8 drive the decision and measure the outcome); the outcome feeds the next ask" width="720"></p>
+<p align="center"><img src="assets/framework.svg" alt="The eight-stage workflow in three bands: Frame (stages 1–3), Analyse (stages 4–6), Act (stages 7–8); the outcome of stage 8 becomes the next ask" width="640"></p>
 
-| | Stage | What you do | What you hand over |
+| Band | Stage | Action | Result |
 |---|---|---|---|
-| **Frame** | [1 · Receive the ask](workflow.md#stage-1--receive-the-ask) | Find out who is asking, what decision they face, what they actually need, and by when | A short reply with clarifying questions, or a yes with a time-box |
-| | [2 · Frame the question](workflow.md#stage-2--frame-the-question) | Turn the ask into testable hypotheses; decide what would change the decision | An issue tree and a two-sentence scope agreement |
-| | [3 · Define metrics & success](workflow.md#stage-3--define-metrics-and-success) | Agree the primary metric, the guardrails, and what "done" means, before touching data | A metric definition everyone has signed off |
-| **Analyse** | [4 · Get & trust the data](workflow.md#stage-4--get-and-trust-the-data) | Find the right tables in the warehouse, query at the right grain, check quality, reconcile against an independent source | Verified queries and a list of caveats |
-| | [5 · Analyse](workflow.md#stage-5--analyse) | Do the analysis the question calls for — descriptive, diagnostic, experimental, causal — and no more | Results with uncertainty stated, and an experiment design if one is needed |
-| | [6 · Synthesise into insight](workflow.md#stage-6--synthesise-into-insight) | Reduce the findings to a few claims someone can act on, each with a confidence level | Three claims, sized in business terms |
-| **Act** | [7 · Recommend & communicate](workflow.md#stage-7--recommend-and-communicate) | Lead with the recommendation, tailor it to the audience, anticipate objections, stand behind it | A one-page memo or short deck, with an appendix |
-| | [8 · Drive the decision & measure the outcome](workflow.md#stage-8--drive-the-decision-and-measure-the-outcome) | Get the decision made and the action taken; measure whether it worked | A decision, a follow-up date, and an entry in your decision log |
+| **Frame** | [1 · Receive the ask](workflow.md#stage-1--receive-the-ask) | Find out who is asking, for which decision, by when | Clarifying questions answered; a time-box agreed |
+| | [2 · Frame the question](workflow.md#stage-2--frame-the-question) | Turn the ask into testable hypotheses | Issue tree; two-sentence scope agreement |
+| | [3 · Define metrics & success](workflow.md#stage-3--define-metrics-and-success) | Agree the primary metric, guardrails, and "done" | One signed-off metric definition |
+| **Analyse** | [4 · Get & trust the data](workflow.md#stage-4--get-and-trust-the-data) | Query the right tables at the right grain; check and reconcile | Verified queries; a list of caveats |
+| | [5 · Analyse](workflow.md#stage-5--analyse) | Run the analysis the question calls for — and no more | Results with uncertainty; experiment design if needed |
+| | [6 · Synthesise into insight](workflow.md#stage-6--synthesise-into-insight) | Reduce findings to what matters, with confidence stated | Three claims, sized in business terms |
+| **Act** | [7 · Recommend & communicate](workflow.md#stage-7--recommend-and-communicate) | Lead with the recommendation, tailored to the audience | One-page memo or short deck |
+| | [8 · Drive the decision & measure the outcome](workflow.md#stage-8--drive-the-decision-and-measure-the-outcome) | Get the decision made and acted on; measure it | Decision taken; outcome measured; decision log updated |
 
 The loop ends in a **decision**, not a model. Machine learning and experimentation live inside Stage 5 as options, chosen when the question calls for them. The Frame and Act bands are where business judgment and persuasion do most of the work; the Analyse band is where technical skill does. Interviews probe all eight stages; most candidates prepare for the middle three.
 
