@@ -1,13 +1,15 @@
 # A successful career
 
-*Being good at the job is necessary and not sufficient. Three things separate the analysts who advance from the ones who stay useful.*
+*A successful career is you and the company succeeding together. You have to be known, then picked, then make a difference — and each round earns the next, one level up.*
 
-| | What it is | Page |
-|---|---|---|
-| **They find their own work** | Noticing where value is being left on the table, sizing it, and bringing it to the people who can act — and judging the initiatives other people propose. The thing that happens before Stage 1 and after Stage 8. | [Finding the ask](finding-the-ask.md) |
-| **They act a certain way when nobody is directing them** | Curiosity one step further, scepticism including of themselves, tolerance for ambiguity, bias to action, intellectual honesty, pragmatism about depth, working in the open. | [The person behind the abilities](dispositions.md) |
-| **They are known to be good by the people who decide** | Trust with a small number of people who matter, built through work others can see, extended by teaching and writing. | [Career capital](career-capital.md) |
+| Step | What it means | How it happens | Page |
+|---|---|---|---|
+| **1. Be known** | The people who decide know you exist and know what you can do — before any role is open. | Rarely through an application. Through work they have seen, a reputation that reaches them, an introduction from inside the circle, and being useful before asking for anything. Built in small repeated contacts over time. | [Being known](being-known.md) |
+| **2. Be picked** | Given the role, the project, the room. | Having the traits people select for — follow-through, ambition, courage, composure, generosity with a spine, structured curiosity, self-awareness — and showing them when it counts. | [Career traits](career-traits.md) |
+| **3. Make a difference** | Doing the job in a way that helps the business succeed: decisions changed, money and customers moved. | Finding the work rather than waiting for it; doing it the way a trusted person does; delivering outcomes, not analyses. | [Finding the ask](finding-the-ask.md) · [The person behind the abilities](dispositions.md) |
 
-The three reinforce each other. Finding your own work is what makes you visible; the dispositions are what make the work trustworthy; career capital is what the first two accumulate into. The [phases](../phases/) say how the emphasis shifts from entering the field to teaching it.
+Then it repeats. The difference you made in step 3 is what makes you known to the next circle up, and what you accumulate along the way — skills, a track record, relationships, reputation — is your [career capital](career-capital.md).
 
-> **The one thing to remember:** the abilities get you hired. These three decide what happens after.
+> **The one thing to remember:** the critical roles go to people who are already known to the circle that decides. Being good is the entry condition; being known is the mechanism.
+
+**Coverage.** Step 1 rests on the social-capital research (weak ties, brokerage, reciprocity). Step 2 is built on the Big Five, which is complete by construction, plus self-awareness from the learning-agility models. Step 3 is the rest of this repo. The same traits that get you picked are the ones you can develop; each page says how.

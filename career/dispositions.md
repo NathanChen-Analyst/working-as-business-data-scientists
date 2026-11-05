@@ -1,6 +1,6 @@
 # The person behind the abilities
 
-*Seven dispositions that run under all the abilities. They are not skills you learn from a book; they are habits of mind you notice in yourself, and that hiring managers — whatever their rubric says — are actually looking for.*
+*Seven dispositions that run under all the abilities — how you do the work when nobody is directing you. They are not skills you learn from a book; they are habits of mind you notice in yourself. For the traits that carry a career forward rather than the work itself, see [career traits](career-traits.md).*
 
 **On this page:** [Why this page exists](#why-this-page-exists) · [The seven](#the-seven) · [How they show up in interviews](#how-they-show-up-in-interviews) · [How to grow them](#how-to-grow-them)
 

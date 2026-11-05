@@ -1,6 +1,6 @@
 # Career capital
 
-*What makes a career go well is not only being good. It is being known to be good by the people who decide — and building that in a way that compounds.*
+*What the three steps accumulate into: skills, a track record, relationships, reputation. You build it; others set its value. The mechanism for turning it into opportunity is on [being known](being-known.md).*
 
 **On this page:** [Three sources](#three-sources) · [By phase](#by-phase)
 

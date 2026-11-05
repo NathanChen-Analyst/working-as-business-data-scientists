@@ -1,6 +1,6 @@
 # Finding the ask
 
-*What happens before Stage 1 and after Stage 8: noticing where value is being left on the table, sizing it, deciding whether it is worth pursuing, and bringing it to the people who can act — before anyone asks. Also its mirror image: judging the initiatives other people propose.*
+*Step 3 of a successful career — making a difference — begins here. What happens before Stage 1 and after Stage 8: noticing where value is being left on the table, sizing it, deciding whether it is worth pursuing, and bringing it to the people who can act — before anyone asks. Also its mirror image: judging the initiatives other people propose.*
 
 **On this page:** [Why it matters](#why-it-matters) · [Where it sits in the workflow](#where-it-sits-in-the-workflow) · [The toolkit](#the-toolkit) · [In practice](#in-practice) · [By level](#what-good-looks-like-by-level) · [Interview lens](#interview-lens) · [Resources](#resources)
 

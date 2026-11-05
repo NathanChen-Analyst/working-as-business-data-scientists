@@ -100,15 +100,15 @@ Preparing for interviews? Every stage and every ability page has an **Interview 
 
 ## 6 · A successful career
 
-Being good at the job is necessary and not sufficient. Three things separate the analysts who advance from the ones who stay useful — and each one is a kind of analyst you have probably met.
+A successful career is you and the company succeeding together. That takes three steps, and each round earns the next, one level up.
 
-| | The analyst who… | What they do that others don't | The idea, and its page |
+| Step | What it means | How it happens | Page |
 |---|---|---|---|
-| **1** | **finds the work** | Brings a sized opportunity before anyone asks — a funnel leak nobody owns, a metric that drifted, a pattern in the support tickets. Just as often, stops something from being built by sizing it honestly. | **Opportunity sense** → [Finding the ask](career/finding-the-ask.md) |
-| **2** | **you'd trust without checking** | Asks "why?" once more. Predicts the number before running the query. Says "I don't know" and "I was wrong" out loud. Ships the rough answer on Tuesday. Works where others can see. | **Dispositions** → [The person behind the abilities](career/dispositions.md) |
-| **3** | **the right people know** | Known to be good by the handful of people who decide — a manager, two senior peers, the people they ask — because those people have seen the work. Teaching and writing extend that reach. | **Career capital** → [Trust, visible work, teaching](career/career-capital.md) |
+| **1. Be known** | The people who decide know you exist and know what you can do — before any role is open. | Rarely through an application. Through work they have seen, a reputation that reaches them, an introduction from inside the circle, and being useful before asking for anything. | [Being known](career/being-known.md) |
+| **2. Be picked** | Given the role, the project, the room. | Having the traits people select for — follow-through, ambition, courage, composure, generosity with a spine, structured curiosity, self-awareness — and showing them when it counts. | [Career traits](career/career-traits.md) |
+| **3. Make a difference** | Helping the business succeed: decisions changed, money and customers moved. | Finding the work rather than waiting for it; doing it the way a trusted person does; delivering outcomes, not analyses. | [Finding the ask](career/finding-the-ask.md) · [Dispositions](career/dispositions.md) |
 
-The three feed each other: finding the work makes you visible, the dispositions make the work trustworthy, and trust with the right people is what the first two add up to. The toolkit for the first one — how to find opportunities and how to size them — is on its page; it is the most concrete of the three and the one most often missing.
+Being good at the job is the entry condition. Being known to the circle that decides is the mechanism — and it is the step nobody teaches. → [A successful career](career/) for the whole of it, including [career capital](career/career-capital.md), what the three steps accumulate into.
 
 ---
 
@@ -129,7 +129,7 @@ Three structures, one spine:
 - **Stages** are the spine. Content lives here, on one page ([workflow.md](workflow.md)). Each stage has the same four sections — what this stage is · hard skills · judgment & business skills · interview lens — plus the running example and a With AI note.
 - **Abilities** are the lens. Each competency file defines one ability and indexes back into the stages. They hold the level tables and the behavioural interview material.
 - **Phases** are the doors. Each is a reading path through the above for a point in your career, plus the few things specific to that phase.
-- **Career** is what sits around all of it: finding your own work, the dispositions, and how trust is built.
+- **Career** is what sits around all of it: being known, being picked, making a difference.
 
 ```
 .
@@ -137,7 +137,7 @@ Three structures, one spine:
 ├── phases/                   ← Becoming · Working · Advancing · Reproducing
 ├── workflow.md               ← the eight stages, fully worked, on one page
 ├── competencies/             ← the six abilities + working with AI
-├── career/                   ← finding the ask · dispositions · career capital
+├── career/                   ← be known · be picked · make a difference
 ├── running-example/          ← the checkout-conversion case, with artefacts
 ├── interview/                ← cross-cutting interview material
 └── resources.md              ← curated reading, by stage

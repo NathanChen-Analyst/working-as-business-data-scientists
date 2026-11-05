@@ -1,6 +1,6 @@
 # Behavioural story bank — template
 
-Prepare one story per row in STAR form (Situation, Task, Action, Result), with a quantified result and one line on what you would do differently. Tag each story with the ability *and* the disposition it shows; interviewers listen for both.
+Prepare one story per row in STAR form (Situation, Task, Action, Result), with a quantified result and one line on what you would do differently. Tag each story with the ability, the disposition, and where relevant the [career trait](../career/career-traits.md) it shows; interviewers listen for all three.
 
 | # | Prompt | Ability | Disposition | Your story (S / T / A / R) | Result, quantified | What I'd do differently |
 |---|---|---|---|---|---|---|
@@ -16,5 +16,9 @@ Prepare one story per row in STAR form (Situation, Task, Action, Result), with a
 | 10 | An initiative you recommended against | Finding the ask | Intellectual honesty | | | |
 | 11 | An agent output that was wrong and how you caught it | Working with AI | Scepticism | | | |
 | 12 | Something you built that others kept using | Ownership | Working in the open | | | |
+| 13 | A time you disagreed with someone senior | Collaboration | Courage (trait) | | | |
+| 14 | A failure, and how you recovered | Ownership | Composure (trait) | | | |
+| 15 | Something you wanted and asked for | — | Ambition (trait) | | | |
+| 16 | Feedback that changed how you work | — | Self-awareness (trait) | | | |
 
 See [the person behind the abilities](../career/dispositions.md) for the dispositions and [competencies](../competencies/) for the abilities.
