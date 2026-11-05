@@ -1,6 +1,6 @@
 # The six abilities (+ working with AI)
 
-The [matrix](../README.md#abilities-by-stage-the-matrix) says *where* each ability is exercised; these files say *what* it is. Every file follows the same structure, so once you have read one you know how to read the rest:
+The [matrix](../README.md#2--abilities-by-stage-the-matrix) says *where* each ability is exercised; these files say *what* it is. Every file follows the same structure, so once you have read one you know how to read the rest:
 
 definition and why it matters · where it shows up in the workflow · **the toolkit** (concepts and frameworks, each with the question it answers and the stage where an analyst uses it) · how it looks in practice · what good looks like by level · interview lens · resources
 

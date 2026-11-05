@@ -1,6 +1,6 @@
 # The day-to-day workflow
 
-**All eight stages on one page.** The [README](README.md#day-to-day-workflow-stage-framework) shows the shape; this page is the full account, stage by stage, with one case — *"checkout conversion dropped 8% last month"* — running through it.
+**All eight stages on one page.** The [README](README.md#1--day-to-day-workflow-stage-framework) shows the shape; this page is the full account, stage by stage, with one case — *"checkout conversion dropped 8% last month"* — running through it.
 
 ## How to read this page
 

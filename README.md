@@ -6,11 +6,26 @@ Using data to guide decisions is fundamental to how businesses operate, which pu
 
 This repository organises those abilities around the workflow itself. By following a project stage by stage — from an initial, ambiguous ask to a measured decision — it makes visible where each ability is drawn on, what the deliverables look like, how AI agents change the division of labour, and how the standard shifts from entering the field to teaching it. One case runs through everything, with the actual artefacts an analyst would produce.
 
-It is written for data analysts, product analysts, and data scientists whose output is a business decision rather than a deployed model. The first half describes the job as a competent practitioner does it; the second half, [Where are you?](#where-are-you), describes how the expectations shift from entering the field to teaching it.
+It is written for data analysts, product analysts, and data scientists whose output is a business decision rather than a deployed model. The first half describes the job as a competent practitioner does it; the second half, [Part II](#part-ii--you-in-the-job), describes how the expectations shift from entering the field to teaching it.
 
 ---
 
-## Day-to-day workflow (stage framework)
+**Contents**
+
+- **Part I — The job.** How the work is done.
+  - [1 · Day-to-day workflow](#1--day-to-day-workflow-stage-framework) · [2 · Abilities by stage](#2--abilities-by-stage-the-matrix) · [3 · Working with AI agents](#3--working-with-ai-agents) · [4 · Role notes](#4--role-notes)
+- **Part II — You in the job.** Where you are, and what makes a career.
+  - [5 · Where are you?](#5--where-are-you) · [6 · A successful career](#6--a-successful-career)
+- **Part III — The example and the repo.**
+  - [7 · The running example](#7--the-running-example) · [8 · How this repo is organised](#8--how-this-repo-is-organised) · [About](#about) · [Contributing](#contributing) · [License](#license)
+
+---
+
+# Part I — The job
+
+*How the work is done: the eight stages, the six abilities they draw on, and how AI agents change the split between them.*
+
+## 1 · Day-to-day workflow (stage framework)
 
 Eight stages in three bands — what you do at each, and what exists when you are done. The full treatment of every stage, with the running example, is on the [workflow page](workflow.md); the matrix below links to each stage.
 
@@ -20,9 +35,7 @@ Machine learning and experimentation live inside Stage 5 as options, chosen when
 
 The framework stitches together four established ideas — Google's *Ask → Prepare → Process → Analyse → Share → Act* process, Max Shron's CoNVO scoping framework, hypothesis-driven analysis from consulting, and decision-first framing — and deliberately differs from the ML lifecycles (CRISP-DM, TDSP), which assume the deliverable is a deployed model and compress framing and communication into single phases.
 
----
-
-## Abilities by stage (the matrix)
+## 2 · Abilities by stage (the matrix)
 
 A workflow alone hides whatever happens *across* stages — collaboration most of all, which is everywhere and therefore nowhere. So the eight stages are crossed with six abilities:
 
@@ -47,17 +60,30 @@ A workflow alone hides whatever happens *across* stages — collaboration most o
 
 Each column header links to that ability's file in [`competencies/`](competencies/): a definition, the concepts and frameworks it draws on, where it shows up in the workflow, what good looks like at junior, mid, and senior level, and the questions that probe it. Each row links to that stage on the workflow page.
 
----
-
-## Working with AI agents
+## 3 · Working with AI agents
 
 Agents now draft the SQL, run the first pass of the analysis, and write the first version of the memo. That shifts the job rather than shrinking it: the stages where agents are weakest — framing the ask, agreeing metrics, persuading a room, driving a decision — were already most of the value, and the stages where they are strongest are the ones where an unverified output does the most damage.
 
 Every stage on the [workflow page](workflow.md) has a short **With AI** section on what to delegate there and what goes wrong. [`competencies/working-with-ai.md`](competencies/working-with-ai.md) has the full treatment: how to specify a task, how to verify what comes back, how to evaluate whether an agent is reliable enough for a kind of work, and how all of this is now assessed in interviews.
 
+## 4 · Role notes
+
+One workflow, but the weight shifts by role:
+
+| Role | Where the weight sits |
+|---|---|
+| **Data analyst / BI analyst** | Stages 1–4, 6–7. Stage 5 is mostly descriptive and diagnostic. |
+| **Product analyst** | All stages, with Stage 3 (metrics) and Stage 5 (experimentation) emphasised. |
+| **Data scientist (analytics / inference)** | Stage 5 deepens into causal inference and modelling; Stage 8 may include owning models in production. |
+| **Data scientist (ML)** | A different workflow fits better (CRISP-DM / TDSP); this repo is useful for the parts of that job that touch business decisions. |
+
 ---
 
-## Where are you?
+# Part II — You in the job
+
+*Where you are in your working life, and what makes a career go well beyond being good at the work.*
+
+## 5 · Where are you?
 
 Everything above describes the job as a **competent, mid-level practitioner** does it: someone who can take an ambiguous ask through all eight stages, draw on all six abilities, and use AI agents without being used by them. That is the standard the rest of the repo is written to.
 
@@ -72,9 +98,7 @@ Expectations differ by where you are in your working life — not in *which* sta
 
 Preparing for interviews? Every stage and every ability has an **Interview lens** with the questions asked, what interviewers want, and worked answers. The [`interview/`](interview/) folder has the cross-cutting material.
 
----
-
-## A successful career
+## 6 · A successful career
 
 Being good at the job is necessary and not sufficient. Three things separate the analysts who advance from the ones who stay useful.
 
@@ -96,15 +120,17 @@ Being good at the job is necessary and not sufficient. Three things separate the
 
 ---
 
-## The running example
+# Part III — The example and the repo
+
+*One case carried through everything, and how the files fit together.*
+
+## 7 · The running example
 
 *"Checkout conversion dropped 8% last month. Can you look into it?"*
 
 One realistic case carried through all eight stages. Half the drop turns out to be a tracking break; the real drop is a payment-method failure for returning users; the fix is tested with an A/B test and shipped. The [`running-example/`](running-example/) folder holds the actual artefacts — the clarifying questions, the issue tree, the data-quality SQL, the segmentation notebook, the experiment design, the one-page memo — so the work is demonstrated rather than described.
 
----
-
-## How this repo is organised
+## 8 · How this repo is organised
 
 Three structures, one spine:
 
@@ -124,19 +150,6 @@ Three structures, one spine:
 ├── interview/                ← cross-cutting interview material
 └── resources.md              ← curated reading, by stage
 ```
-
----
-
-## Role notes
-
-One workflow, but the weight shifts by role:
-
-| Role | Where the weight sits |
-|---|---|
-| **Data analyst / BI analyst** | Stages 1–4, 6–7. Stage 5 is mostly descriptive and diagnostic. |
-| **Product analyst** | All stages, with Stage 3 (metrics) and Stage 5 (experimentation) emphasised. |
-| **Data scientist (analytics / inference)** | Stage 5 deepens into causal inference and modelling; Stage 8 may include owning models in production. |
-| **Data scientist (ML)** | A different workflow fits better (CRISP-DM / TDSP); this repo is useful for the parts of that job that touch business decisions. |
 
 ---
 
