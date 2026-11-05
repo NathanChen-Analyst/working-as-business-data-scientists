@@ -96,7 +96,6 @@ What changes with experience is not *which* stages and abilities apply, but how 
 | **[Advancing](phases/advancing.md)** | Moving from doing the work to shaping it | Craft becomes something you review; judgment and influence become the job. Read the senior column of every ability table. |
 | **[Reproducing](phases/reproducing.md)** | Hiring, onboarding, mentoring, building a team | The standard is now something you pass on. How to use this repo to onboard, review and hire. |
 
-Preparing for interviews? Every stage and every ability page has an **Interview lens**: the questions asked, what interviewers want, worked answers. The [`interview/`](interview/) folder has the rest.
 
 ## 6 · A successful career
 
@@ -104,11 +103,12 @@ A successful career is you and the company succeeding together. That takes three
 
 | Step | What it means | How it happens | Page |
 |---|---|---|---|
-| **1. Be known** | The people who decide know you exist and know what you can do — before any role is open. | Rarely through an application. Through work they have seen, a reputation that reaches them, an introduction from inside the circle, and being useful before asking for anything. | [Being known](career/being-known.md) |
+| **1. Be known** | The people who decide know you exist and know what you can do. | Two doors: an application done well — targeted, evidenced, with a work sample and a referral — and the network: work they have seen, a reputation that reaches them, an introduction, being useful before asking. The balance shifts toward the network as roles get more senior. | [Being known](career/being-known.md) |
 | **2. Be picked** | Given the role, the project, the room. | Having the traits people select for — follow-through, ambition, courage, composure, generosity with a spine, structured curiosity, self-awareness — and showing them when it counts. | [Career traits](career/career-traits.md) |
+| ↳ **The interview** | Where steps 1 and 2 meet: a showing of the abilities, the traits, and the difference you have made. | Every stage and every ability page has an **Interview lens** — the questions asked, what interviewers want, worked answers. The story bank ties them together. | [Interview guide](interview/) |
 | **3. Make a difference** | Helping the business succeed: decisions changed, money and customers moved. | Finding the work rather than waiting for it; doing it the way a trusted person does; delivering outcomes, not analyses. | [Finding the ask](career/finding-the-ask.md) · [Dispositions](career/dispositions.md) |
 
-Being good at the job is the entry condition. Being known to the circle that decides is the mechanism — and it is the step nobody teaches. → [A successful career](career/) for the whole of it, including [career capital](career/career-capital.md), what the three steps accumulate into.
+Being good at the job is the entry condition. Being known — through the open door early, through the network increasingly — is the mechanism, and the one nobody teaches. → [A successful career](career/) for the whole of it, including [career capital](career/career-capital.md), what the three steps accumulate into.
 
 ---
 
