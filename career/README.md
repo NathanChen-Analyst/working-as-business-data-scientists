@@ -1,6 +1,6 @@
 # A successful career
 
-*A successful career is you and the company succeeding together. You have to be known, then picked, then make a difference — in that order, because nobody is chosen who was not first considered, and nobody delivers who was not first chosen. Each round earns the next, one level up.*
+*A successful career is you and the company succeeding together. Being good at the job is necessary, but it does not by itself get you the role, the project, or the room: the people who decide have to know you exist, and then they have to choose you. So there are three steps, in order — be known, be picked, make a difference — and each round earns the next, one level up.*
 
 | Step | What it means | How it happens | Where it ends | Page |
 |---|---|---|---|---|
@@ -10,8 +10,8 @@
 
 **The interview** belongs to step 2. Step 1 is what got you into it, and the common mistake is to treat the interview as the end of applying rather than the beginning of being chosen: applying is telling, the interview is showing. What is shown is the abilities, the track record, and the traits; the [interview guide](../interview/) and the *Interview lens* on every page are built for that.
 
-Then it repeats. The difference you made in step 3 is what makes you known to the next circle up, and what you accumulate along the way — skills, a track record, relationships, reputation — is your [career capital](career-capital.md).
+Then it repeats. The difference you made in step 3 is what makes you known to the next circle up. What the rounds accumulate into — trust with the people who matter, work others can see, what you have taught — is [career capital](career-capital.md); what it looks like at each point in a career is on the [phase pages](../phases/).
 
-> **The one thing to remember:** being good is the entry condition, not the mechanism. Known gets you considered; picked gets you the chance; the difference you make gets you known one level up.
+> **The one thing to remember:** being good at the job gets you taken seriously; it does not get you chosen. Being known gets you considered, being picked gets you the chance, and the difference you then make is what gets you known one level up.
 
 **Where the three steps come from.** The sequence itself is old advice with several names — Coleman's *performance, image, exposure* is the best known: performance is necessary, but exposure (being known) and image (how you are read) decide most of what happens next. Step 1 rests on the social-capital research: weak ties, brokerage, reciprocity. Step 2 rests on two bodies of work — personnel-selection research on what actually predicts performance and what good hiring weighs (work samples, structured interviews, general ability, conscientiousness), and the Big Five personality model plus self-awareness from the learning-agility models, which is where the seven traits are drawn from. Step 3 is the rest of this repo. The same traits that get you picked are the ones you can develop; each page says how.

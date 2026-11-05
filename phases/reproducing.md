@@ -28,7 +28,9 @@ A team that can describe the job in the same words, review each other's work aga
 
 ## Career capital at this phase
 
-By now the strongest evidence of your ability is other people: the analysts you developed who went on to do well, the team whose standards you set. Public work belongs here — writing, speaking, a shared body of knowledge, a repo like this one — because you have enough to say and enough standing to be heard. It is also how the chain of trust extends past the people you have personally worked with. See [career capital](../career/career-capital.md).
+*Of the [three sources](../career/career-capital.md#three-sources) — trust, visible work, teaching — this is what matters now.*
+
+By now the strongest evidence of your ability is other people: the analysts you developed who went on to do well, the team whose standards you set. Public work belongs here — writing, speaking, a shared body of knowledge, a repo like this one — because you have enough to say and enough standing to be heard. It is also how the chain of trust extends past the people you have personally worked with.
 
 ## Contributing back
 If you adapt this material for a team, the adaptations are the most valuable thing you can contribute: which questions worked, which stages needed more, what you had to add. See [Contributing](../README.md#contributing).

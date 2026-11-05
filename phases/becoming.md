@@ -26,7 +26,9 @@ The junior column of each ability table in [`competencies/`](../competencies/). 
 
 ## Career capital at this phase
 
-You have no track record yet, so the artefact *is* the record. One end-to-end case, done well, in a public repo, is worth more than a certificate list. Beyond that: be known to a handful of people — a lecturer, a mentor, a manager from a part-time job — as someone who finishes what they start and says when they don't know. They are the first links in the chain. See [career capital](../career/career-capital.md).
+*Of the [three sources](../career/career-capital.md#three-sources) — trust, visible work, teaching — this is what matters now.*
+
+You have no track record yet, so the artefact *is* the record. One end-to-end case, done well, in a public repo, is worth more than a certificate list. Beyond that: be known to a handful of people — a lecturer, a mentor, a manager from a part-time job — as someone who finishes what they start and says when they don't know. They are the first links in the chain.
 
 ## The trap
 Spending six months on machine learning because it is the most visible skill, then interviewing for analyst roles that will ask you to frame a question and write SQL. Check the [role notes](../README.md#4--role-notes) against the roles you are applying for.

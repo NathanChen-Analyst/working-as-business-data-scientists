@@ -99,17 +99,15 @@ What changes with experience is not *which* stages and abilities apply, but how 
 
 ## 6 · A successful career
 
-A successful career is you and the company succeeding together. That takes three steps in sequence — you have to be *considered* before you can be *chosen*, and chosen before you can *deliver* — and each round earns the next, one level up.
+Part I says what the job is; this section is about getting the chance to do it. Being good at the job is necessary but it is not what gets you the role: the people who decide have to know you exist, and then they have to choose you. That makes three steps, in order, and each round earns the next one level up.
 
-| Step | What it means | How it happens | Page |
-|---|---|---|---|
-| **1. Be known** | The people who decide know you exist and roughly what you can do — enough to give you the conversation. The step ends when you are in the room. | Two doors. Early: the open door — a targeted application with a work sample, warmed by a referral. Increasingly: the network — work they have seen, a reputation that travels, an introduction, being useful before asking. | [Being known](career/being-known.md) |
-| **2. Be picked** | Chosen for the role, the project, the room — by an interview, or by people who have watched you work. | Being judged on three things and showing all three: the six abilities of Part I, a track record of outcomes (what step 3 produced last time round), and the traits people select for — follow-through, ambition, courage, composure, generosity with a spine, structured curiosity, self-awareness. | [Career traits](career/career-traits.md) |
-| **3. Make a difference** | Helping the business succeed: decisions changed, money and customers moved. | Finding the work rather than waiting for it; doing it the way a trusted person does; delivering outcomes, not analyses. The outcomes are the track record for the next round, and the people who saw them are how you become known one level up. | [Finding the ask](career/finding-the-ask.md) · [Dispositions](career/dispositions.md) |
+| Step | In one line | Page |
+|---|---|---|
+| **1. Be known** | The people who decide know you exist — through an application done well, or through the network. Ends when you have the conversation. | [Being known](career/being-known.md) |
+| **2. Be picked** | Chosen, on evidence of the abilities, a track record, and the traits people select for. The interview is this step made formal. | [Career traits](career/career-traits.md) |
+| **3. Make a difference** | Decisions changed, money and customers moved. What this produces is the track record and reputation for the next round. | [Finding the ask](career/finding-the-ask.md) · [Dispositions](career/dispositions.md) |
 
-Being good at the job is the entry condition, not the mechanism. The mechanism is the loop: known gets you considered, picked gets you the chance, the difference you make gets you known to the next circle. → [A successful career](career/) for the whole of it, including [career capital](career/career-capital.md), what the three steps accumulate into.
-
-**The interview** is step 2 made formal. Step 1 is what got you into it; what happens inside it is the showing — the abilities, the track record, the traits. Every stage and every ability page has an *Interview lens* with the questions asked, what interviewers want, and worked answers; the [interview guide](interview/) holds what cuts across them, including the story bank.
+The full account — how the steps connect, what they accumulate into, and the research behind them — is on [A successful career](career/). Every stage and every ability page has an *Interview lens* for step 2; the [interview guide](interview/) holds what cuts across them.
 
 ---
 

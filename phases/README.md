@@ -11,4 +11,4 @@ The workflow and the abilities describe the job. These four pages describe *you*
 
 The phases roughly track the junior → mid → senior columns in each [competency](../competencies/) file, so those tables are the detail behind each door.
 
-What makes a career go well across these phases — trust, visible work, teaching — is on [career capital](../career/career-capital.md).
+Each page has a section on what [career capital](../career/career-capital.md) looks like at that phase; the three steps that build it are on [A successful career](../career/).

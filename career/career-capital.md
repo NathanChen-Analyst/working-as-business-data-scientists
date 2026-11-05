@@ -2,7 +2,7 @@
 
 *What the three steps accumulate into: skills, a track record, relationships, reputation. You build it; others set its value. The mechanism for turning it into opportunity is on [being known](being-known.md).*
 
-**On this page:** [Three sources](#three-sources) · [By phase](#by-phase)
+**On this page:** [Three sources](#three-sources) · [By phase](#by-phase) — the phase detail lives on the [phase pages](../phases/)
 
 ## Three sources
 
@@ -16,14 +16,8 @@
 
 ## By phase
 
-*Read down the phases and the emphasis moves from the first row to the third.*
-
-| Phase | Career capital looks like |
-|---|---|
-| [Becoming](../phases/becoming.md) | One end-to-end case in a public repo. Being known to a few people as someone who finishes things. |
-| [Working](../phases/working.md) | A decision log with outcomes. A manager and two senior peers who would hire you again. Work done in the open — reviewed, documented, findable. |
-| [Advancing](../phases/advancing.md) | A track record people cite. Being the person others come to before they have formed the question. Internal teaching: playbooks, reviews, talks. |
-| [Reproducing](../phases/reproducing.md) | People you developed who have gone on to do well. Public work — writing, speaking, a body of shared knowledge — because by now there is something worth sharing. |
+*The emphasis moves down the three rows as a career goes on. The specifics for each phase are on that phase's page:*
+[Becoming](../phases/becoming.md#career-capital-at-this-phase) · [Working](../phases/working.md#career-capital-at-this-phase) · [Advancing](../phases/advancing.md#career-capital-at-this-phase) · [Reproducing](../phases/reproducing.md#career-capital-at-this-phase)
 
 > **The one thing to remember:** the audience that matters is small and specific. Build trust with them through work they can see, and let the wider footprint grow from that — not the other way round.
 
