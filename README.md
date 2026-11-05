@@ -105,10 +105,11 @@ A successful career is you and the company succeeding together. That takes three
 |---|---|---|---|
 | **1. Be known** | The people who decide know you exist and know what you can do. | Two doors: an application done well — targeted, evidenced, with a work sample and a referral — and the network: work they have seen, a reputation that reaches them, an introduction, being useful before asking. The balance shifts toward the network as roles get more senior. | [Being known](career/being-known.md) |
 | **2. Be picked** | Given the role, the project, the room. | Having the traits people select for — follow-through, ambition, courage, composure, generosity with a spine, structured curiosity, self-awareness — and showing them when it counts. | [Career traits](career/career-traits.md) |
-| ↳ **The interview** | Where steps 1 and 2 meet: a showing of the abilities, the traits, and the difference you have made. | Every stage and every ability page has an **Interview lens** — the questions asked, what interviewers want, worked answers. The story bank ties them together. | [Interview guide](interview/) |
 | **3. Make a difference** | Helping the business succeed: decisions changed, money and customers moved. | Finding the work rather than waiting for it; doing it the way a trusted person does; delivering outcomes, not analyses. | [Finding the ask](career/finding-the-ask.md) · [Dispositions](career/dispositions.md) |
 
 Being good at the job is the entry condition. Being known — through the open door early, through the network increasingly — is the mechanism, and the one nobody teaches. → [A successful career](career/) for the whole of it, including [career capital](career/career-capital.md), what the three steps accumulate into.
+
+**The interview** is where the first two steps are shown: the abilities, the traits, and the difference you have made so far. Every stage and every ability page has an *Interview lens* with the questions asked, what interviewers want, and worked answers; the [interview guide](interview/) holds what cuts across them, including the story bank.
 
 ---
 
