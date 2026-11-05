@@ -100,13 +100,13 @@ Preparing for interviews? Every stage and every ability page has an **Interview 
 
 ## 6 · A successful career
 
-Being good at the job gets you hired. Three things decide what happens after. Each is a kind of person you have probably met.
+Being good at the job is necessary and not sufficient. Three things separate the analysts who advance from the ones who stay useful — and each one is a kind of analyst you have probably met.
 
-| | The analyst who… | What they do that others don't | Read |
+| | The analyst who… | What they do that others don't | The idea, and its page |
 |---|---|---|---|
-| **1** | **finds the work** | Brings a sized opportunity before anyone asks — a funnel leak nobody owns, a metric that drifted, a pattern in the support tickets. Just as often, stops something from being built by sizing it honestly. | [Finding the ask](career/finding-the-ask.md) |
-| **2** | **you'd trust without checking** | Asks "why?" once more. Predicts the number before running the query. Says "I don't know" and "I was wrong" out loud. Ships the rough answer on Tuesday. Works where others can see. | [The person behind the abilities](career/dispositions.md) |
-| **3** | **the right people know** | Known to be good by the handful of people who decide — a manager, two senior peers, the people they ask — because those people have seen the work. Teaching and writing extend that reach. | [Career capital](career/career-capital.md) |
+| **1** | **finds the work** | Brings a sized opportunity before anyone asks — a funnel leak nobody owns, a metric that drifted, a pattern in the support tickets. Just as often, stops something from being built by sizing it honestly. | **Opportunity sense** → [Finding the ask](career/finding-the-ask.md) |
+| **2** | **you'd trust without checking** | Asks "why?" once more. Predicts the number before running the query. Says "I don't know" and "I was wrong" out loud. Ships the rough answer on Tuesday. Works where others can see. | **Dispositions** → [The person behind the abilities](career/dispositions.md) |
+| **3** | **the right people know** | Known to be good by the handful of people who decide — a manager, two senior peers, the people they ask — because those people have seen the work. Teaching and writing extend that reach. | **Career capital** → [Trust, visible work, teaching](career/career-capital.md) |
 
 The three feed each other: finding the work makes you visible, the dispositions make the work trustworthy, and trust with the right people is what the first two add up to. The toolkit for the first one — how to find opportunities and how to size them — is on its page; it is the most concrete of the three and the one most often missing.
 
