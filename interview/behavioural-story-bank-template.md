@@ -17,4 +17,4 @@ Prepare one story per row in STAR form (Situation, Task, Action, Result), with a
 | 11 | An agent output that was wrong and how you caught it | Working with AI | Scepticism | | | |
 | 12 | Something you built that others kept using | Ownership | Working in the open | | | |
 
-See [the person behind the abilities](../dispositions.md) for the dispositions and [competencies](../competencies/) for the abilities.
+See [the person behind the abilities](../career/dispositions.md) for the dispositions and [competencies](../competencies/) for the abilities.

@@ -26,7 +26,7 @@ Senior interviews test judgment and influence, usually through a case where the 
 
 ## Career capital at this phase
 
-Your record now exists; the task is making it legible beyond the people who watched it happen. Internal first: playbooks, the review norms you set, the talks you give. Then external, if there is something worth saying — a write-up of a method, a talk about a project that landed. The test for going public is simple: would a senior practitioner you respect learn something from it? Visibility pursued for its own sake reads as such; visibility that follows from the work compounds. See [career capital](README.md#career-capital).
+Your record now exists; the task is making it legible beyond the people who watched it happen. Internal first: playbooks, the review norms you set, the talks you give. Then external, if there is something worth saying — a write-up of a method, a talk about a project that landed. The test for going public is simple: would a senior practitioner you respect learn something from it? Visibility pursued for its own sake reads as such; visibility that follows from the work compounds. See [career capital](../career/career-capital.md).
 
 ## The trap
 Staying the best analyst on the team. If you are still the person who writes the hardest query, you have not advanced; you have been promoted.

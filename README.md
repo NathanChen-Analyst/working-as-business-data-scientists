@@ -16,7 +16,7 @@ Eight stages in three bands — what you do at each, and what exists when you ar
 
 <p align="center"><img src="assets/framework.svg" alt="The eight-stage workflow in three bands with an action and a result for each stage. Frame: 1 receive the ask, 2 frame the question, 3 define metrics and success. Analyse: 4 get and trust the data, 5 analyse, 6 synthesise into insight. Act: 7 recommend and communicate, 8 drive the decision and measure the outcome. The outcome of stage 8 becomes the next ask." width="860"></p>
 
-Machine learning and experimentation live inside Stage 5 as options, chosen when the question calls for them. Where the ask comes from in the first place — and how to find your own — is on [finding the ask](finding-the-ask.md). The Frame and Act bands are where business judgment and persuasion do most of the work; the Analyse band is where technical skill does. Interviews probe all eight stages; most candidates prepare for the middle three.
+Machine learning and experimentation live inside Stage 5 as options, chosen when the question calls for them. The Frame and Act bands are where business judgment and persuasion do most of the work; the Analyse band is where technical skill does. Interviews probe all eight stages; most candidates prepare for the middle three.
 
 The framework stitches together four established ideas — Google's *Ask → Prepare → Process → Analyse → Share → Act* process, Max Shron's CoNVO scoping framework, hypothesis-driven analysis from consulting, and decision-first framing — and deliberately differs from the ML lifecycles (CRISP-DM, TDSP), which assume the deliverable is a deployed model and compress framing and communication into single phases.
 
@@ -49,12 +49,6 @@ Each column header links to that ability's file in [`competencies/`](competencie
 
 ---
 
-One thing sits outside the matrix because it happens *before* Stage 1 and *after* Stage 8: finding the ask yourself, and judging the initiatives other people propose. [Finding the ask →](finding-the-ask.md)
-
-Underneath the abilities sit seven **dispositions** — curiosity, scepticism, tolerance for ambiguity, bias to action, intellectual honesty, pragmatism about depth, working in the open. They are not skills; they are how you tend to act when nobody has told you what to do, and they are what interviewers are really listening for. [The person behind the abilities →](dispositions.md)
-
----
-
 ## Working with AI agents
 
 Agents now draft the SQL, run the first pass of the analysis, and write the first version of the memo. That shifts the job rather than shrinking it: the stages where agents are weakest — framing the ask, agreeing metrics, persuading a room, driving a decision — were already most of the value, and the stages where they are strongest are the ones where an unverified output does the most damage.
@@ -76,9 +70,13 @@ Expectations differ by where you are in your working life — not in *which* sta
 | **[Advancing](phases/advancing.md)** | Moving from doing the work to shaping it | The matrix inverts: craft becomes something you review, judgment and influence become most of the job. Read the senior column of every ability table. |
 | **[Reproducing](phases/reproducing.md)** | Hiring, onboarding, mentoring, building a team | The standard becomes something you transmit. How to use this repo to onboard, review, and hire. |
 
-What makes a career go well is not only being good but being known to be good by the people who decide. [Career capital](phases/README.md#career-capital) says how that is built, phase by phase.
-
 Preparing for interviews? Every stage and every ability has an **Interview lens** with the questions asked, what interviewers want, and worked answers. The [`interview/`](interview/) folder has the cross-cutting material.
+
+---
+
+## A successful career
+
+Being good at the job is necessary and not sufficient. Three things separate the analysts who advance from the ones who stay useful: they **find their own work** rather than waiting for the ask; they **act a certain way when nobody is directing them** — curious, sceptical, comfortable with ambiguity, biased to action, honest, pragmatic, working in the open; and they are **known to be good by the people who decide**, through work others can see. [A successful career →](career/)
 
 ---
 
@@ -97,15 +95,15 @@ Three structures, one spine:
 - **Stages** are the spine. Content lives here, on one page ([workflow.md](workflow.md)). Each stage has the same four sections — what this stage is · hard skills · judgment & business skills · interview lens — plus the running example and a With AI note.
 - **Abilities** are the lens. Each competency file defines one ability and indexes back into the stages. They hold the level tables and the behavioural interview material.
 - **Phases** are the doors. Each is a reading path through the above for a point in your career, plus the few things specific to that phase.
+- **Career** is what sits around all of it: finding your own work, the dispositions, and how trust is built.
 
 ```
 .
 ├── README.md                 ← you are here
 ├── phases/                   ← Becoming · Working · Advancing · Reproducing
 ├── workflow.md               ← the eight stages, fully worked, on one page
-├── finding-the-ask.md        ← before Stage 1 and after Stage 8
 ├── competencies/             ← the six abilities + working with AI
-├── dispositions.md           ← the person behind the abilities
+├── career/                   ← finding the ask · dispositions · career capital
 ├── running-example/          ← the checkout-conversion case, with artefacts
 ├── interview/                ← cross-cutting interview material
 └── resources.md              ← curated reading, by stage

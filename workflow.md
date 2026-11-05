@@ -42,7 +42,7 @@ Stage 4 has one extra section, **Where the data lives**, on the data platform. S
 **Primary abilities:** Business acumen · Collaboration & influence
 
 ### What this stage is
-A stakeholder brings you something — or, as often for a good analyst, you bring it yourself, from a metric that drifted or a funnel step nobody owns (see [opportunity sense](finding-the-ask.md)). Either way, it is rarely a well-posed question. Your job is to understand *who* is asking, *what decision* they are facing, and *what they actually need* — which is often different from what they said.
+A stakeholder brings you something — or, as often for a good analyst, you bring it yourself, from a metric that drifted or a funnel step nobody owns (see [opportunity sense](career/finding-the-ask.md)). Either way, it is rarely a well-posed question. Your job is to understand *who* is asking, *what decision* they are facing, and *what they actually need* — which is often different from what they said.
 
 **Running example.** A product manager messages: *"Checkout conversion is down 8% month-over-month. Can you look into it?"*
 

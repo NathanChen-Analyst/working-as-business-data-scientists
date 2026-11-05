@@ -24,14 +24,14 @@ Job postings describe this as "identify strategic opportunities", "review new bu
 
 | Stage | What it looks like there | Weight |
 |---|---|:-:|
-| [1 Receive the ask](workflow.md#stage-1--receive-the-ask) | Finding the ask yourself; bringing a sized opportunity rather than waiting for a request | ●● |
-| [2 Frame the question](workflow.md#stage-2--frame-the-question) | Framing around the opportunity's value, not only its cause | ● |
-| [3 Define metrics & success](workflow.md#stage-3--define-metrics-and-success) | Choosing a metric that would show the opportunity was captured | ● |
-| [4 Get & trust the data](workflow.md#stage-4--get-and-trust-the-data) | Noticing, while in the data for something else, the thing nobody is looking at | ○ |
-| [5 Analyse](workflow.md#stage-5--analyse) | — | ○ |
-| [6 Synthesise into insight](workflow.md#stage-6--synthesise-into-insight) | Spotting the finding that is bigger than the question | ● |
-| [7 Recommend & communicate](workflow.md#stage-7--recommend-and-communicate) | Recommending what to do next, not only what was found | ○ |
-| [8 Drive the decision](workflow.md#stage-8--drive-the-decision-and-measure-the-outcome) | The outcome of one project is the source of the next; keeping the list of what you noticed | ●● |
+| [1 Receive the ask](../workflow.md#stage-1--receive-the-ask) | Finding the ask yourself; bringing a sized opportunity rather than waiting for a request | ●● |
+| [2 Frame the question](../workflow.md#stage-2--frame-the-question) | Framing around the opportunity's value, not only its cause | ● |
+| [3 Define metrics & success](../workflow.md#stage-3--define-metrics-and-success) | Choosing a metric that would show the opportunity was captured | ● |
+| [4 Get & trust the data](../workflow.md#stage-4--get-and-trust-the-data) | Noticing, while in the data for something else, the thing nobody is looking at | ○ |
+| [5 Analyse](../workflow.md#stage-5--analyse) | — | ○ |
+| [6 Synthesise into insight](../workflow.md#stage-6--synthesise-into-insight) | Spotting the finding that is bigger than the question | ● |
+| [7 Recommend & communicate](../workflow.md#stage-7--recommend-and-communicate) | Recommending what to do next, not only what was found | ○ |
+| [8 Drive the decision](../workflow.md#stage-8--drive-the-decision-and-measure-the-outcome) | The outcome of one project is the source of the next; keeping the list of what you noticed | ●● |
 
 ---
 
@@ -76,7 +76,7 @@ Job postings describe this as "identify strategic opportunities", "review new bu
 - **Propose the test, not the build.** Opportunity sense is not advocacy. Your job is to say what it might be worth and how to find out cheaply.
 - **Review proposals as if they were yours.** Pre-mortem, sizing, kill criteria. Being the person who makes other people's initiatives better is as valuable as having your own.
 - **Kill your own ideas in public.** When the sizing says no, say so, out loud. It is what makes people believe you when the sizing says yes.
-- **With AI:** agents are good at the leak scan and the qualitative classification — they can walk every funnel and read every ticket. They are bad at knowing which finding matters to this business now. See [working with AI](competencies/working-with-ai.md).
+- **With AI:** agents are good at the leak scan and the qualitative classification — they can walk every funnel and read every ticket. They are bad at knowing which finding matters to this business now. See [working with AI](../competencies/working-with-ai.md).
 
 ---
 
@@ -126,4 +126,4 @@ Job postings describe this as "identify strategic opportunities", "review new bu
 
 ---
 
-This page draws on all six abilities: the leak scan is [technical craft](competencies/technical-craft.md); sizing is [business acumen](competencies/business-acumen.md); the pre-mortem is [analytical reasoning](competencies/analytical-reasoning.md); taking it to the right person is [collaboration](competencies/collaboration.md); the opportunity log is [ownership](competencies/ownership-and-delivery.md). The disposition behind it is [curiosity that goes one step further](dispositions.md#the-seven).
+This page draws on all six abilities: the leak scan is [technical craft](../competencies/technical-craft.md); sizing is [business acumen](../competencies/business-acumen.md); the pre-mortem is [analytical reasoning](../competencies/analytical-reasoning.md); taking it to the right person is [collaboration](../competencies/collaboration.md); the opportunity log is [ownership](../competencies/ownership-and-delivery.md). The disposition behind it is [curiosity that goes one step further](dispositions.md#the-seven).

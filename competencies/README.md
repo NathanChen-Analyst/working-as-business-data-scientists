@@ -16,4 +16,4 @@ definition and why it matters · where it shows up in the workflow · **the tool
 
 The junior / mid / senior tables in each file are the detail behind the four [phases](../phases/).
 
-Before Stage 1 and after Stage 8: [finding the ask](../finding-the-ask.md). Underneath all of them: [the person behind the abilities](../dispositions.md) — the seven dispositions.
+What sits around the abilities — finding your own work, the dispositions, career capital — is in [career/](../career/).
