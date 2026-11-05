@@ -24,5 +24,9 @@ A portfolio with **one** end-to-end case done well beats five notebooks. Pick a 
 ## What good looks like
 The junior column of each ability table in [`competencies/`](../competencies/). You are not expected to be beyond it. You *are* expected to know the other columns exist.
 
+## Career capital at this phase
+
+You have no track record yet, so the artefact *is* the record. One end-to-end case, done well, in a public repo, is worth more than a certificate list. Beyond that: be known to a handful of people — a lecturer, a mentor, a manager from a part-time job — as someone who finishes what they start and says when they don't know. They are the first links in the chain. See [career capital](README.md#career-capital).
+
 ## The trap
 Spending six months on machine learning because it is the most visible skill, then interviewing for analyst roles that will ask you to frame a question and write SQL. Check the [role notes](../README.md#role-notes) against the roles you are applying for.

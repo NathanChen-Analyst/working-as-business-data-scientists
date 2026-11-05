@@ -89,7 +89,7 @@ This is also how to answer the increasingly common stakeholder request: "can we 
 
 | | Junior | Mid | Senior |
 |---|---|---|---|
-| **Delegation** | Uses agents for syntax and drafts | Specifies tasks precisely; keeps method choice | Designs the team's division of labour between people and agents |
+| **Delegation** | Uses agents for syntax and drafts | Specifies tasks precisely; keeps method choice | Builds verification strong enough to delegate almost everything — the goal is not to use agents more but to make the checks good enough that you can |
 | **Verification** | Runs the code and eyeballs the output | Predicts first; checks grain, joins, reconciliation as routine | Sets the team's verification standards; knows which tasks need none and which need all |
 | **Judgment** | Accepts fluent outputs | Re-grades confidence; asks for the rebuttal | Knows from experience which agent failures are systematic for which task types |
 | **Evaluation** | — | Evaluates a tool for own use with a small labelled set | Runs formal evaluations; decides what the team may and may not delegate |

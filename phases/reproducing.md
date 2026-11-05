@@ -26,5 +26,9 @@ The four-section structure of each stage (what it is · hard skills · judgment 
 ## What good looks like
 A team that can describe the job in the same words, review each other's work against the same stages, and tell you honestly which stages it is weak at. And a successor.
 
+## Career capital at this phase
+
+By now the strongest evidence of your ability is other people: the analysts you developed who went on to do well, the team whose standards you set. Public work belongs here — writing, speaking, a shared body of knowledge, a repo like this one — because you have enough to say and enough standing to be heard. It is also how the chain of trust extends past the people you have personally worked with. See [career capital](README.md#career-capital).
+
 ## Contributing back
 If you adapt this material for a team, the adaptations are the most valuable thing you can contribute: which questions worked, which stages needed more, what you had to add. See [Contributing](../README.md#contributing).

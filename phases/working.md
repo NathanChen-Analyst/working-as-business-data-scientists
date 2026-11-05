@@ -24,5 +24,9 @@ The mid column of each ability table in [`competencies/`](../competencies/). The
 ## Interview preparation (for the next move)
 By now the cases are easy and the behavioural questions are what differentiate. Your [decision log](#habits-that-compound) is the raw material. Make sure your stories cover disagreement, a project that did not land, and influencing a decision you did not own — see the [story bank template](../interview/behavioural-story-bank-template.md).
 
+## Career capital at this phase
+
+This is where trust is built or not. The people who will get you your next two jobs are the manager and the senior peers you work with now, and what they remember is whether your numbers held up, whether you delivered when you said, and whether you told them the bad news yourself. Work in the open: reviewed queries, documented analyses, a decision log with outcomes you can show. Start teaching internally — a short write-up of how you solved something is both documentation and a work sample. See [career capital](README.md#career-capital).
+
 ## The trap
 Becoming the person who is very fast at Stages 4–6 and is therefore handed more and more Stage 4–6 work. Fast execution is valued; it is also how you get stuck.

@@ -24,26 +24,30 @@ The framework stitches together four established ideas — Google's *Ask → Pre
 
 ## Abilities by stage (the matrix)
 
-A workflow alone hides whatever happens *across* stages — collaboration most of all, which is everywhere and therefore nowhere. So the eight stages are crossed with six abilities:
+A workflow alone hides whatever happens *across* stages — collaboration most of all, which is everywhere and therefore nowhere. So the eight stages are crossed with seven abilities:
 
-| | [Technical craft](competencies/technical-craft.md) | [Analytical reasoning](competencies/analytical-reasoning.md) | [Business acumen](competencies/business-acumen.md) | [Communication](competencies/communication.md) | [Collaboration & influence](competencies/collaboration.md) | [Ownership & delivery](competencies/ownership-and-delivery.md) |
-|---|:-:|:-:|:-:|:-:|:-:|:-:|
-| **[1 Receive the ask](workflow.md#stage-1--receive-the-ask)** | ○ | ● | ●● | ● | ●● | ○ |
-| **[2 Frame the question](workflow.md#stage-2--frame-the-question)** | ○ | ●● | ●● | ● | ● | ● |
-| **[3 Define metrics & success](workflow.md#stage-3--define-metrics-and-success)** | ● | ●● | ●● | ● | ●● | ○ |
-| **[4 Get & trust the data](workflow.md#stage-4--get-and-trust-the-data)** | ●● | ● | ○ | ○ | ●● | ● |
-| **[5 Analyse](workflow.md#stage-5--analyse)** | ●● | ●● | ● | ○ | ● | ● |
-| **[6 Synthesise into insight](workflow.md#stage-6--synthesise-into-insight)** | ● | ●● | ●● | ● | ○ | ○ |
-| **[7 Recommend & communicate](workflow.md#stage-7--recommend-and-communicate)** | ○ | ● | ●● | ●● | ●● | ● |
-| **[8 Drive the decision & measure](workflow.md#stage-8--drive-the-decision-and-measure-the-outcome)** | ○ | ○ | ●● | ● | ●● | ●● |
+| | [Technical craft](competencies/technical-craft.md) | [Analytical reasoning](competencies/analytical-reasoning.md) | [Business acumen](competencies/business-acumen.md) | [Communication](competencies/communication.md) | [Collaboration & influence](competencies/collaboration.md) | [Ownership & delivery](competencies/ownership-and-delivery.md) | [Opportunity sense](competencies/opportunity-sense.md) |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **[1 Receive the ask](workflow.md#stage-1--receive-the-ask)** | ○ | ● | ●● | ● | ●● | ○ | ●● |
+| **[2 Frame the question](workflow.md#stage-2--frame-the-question)** | ○ | ●● | ●● | ● | ● | ● | ● |
+| **[3 Define metrics & success](workflow.md#stage-3--define-metrics-and-success)** | ● | ●● | ●● | ● | ●● | ○ | ● |
+| **[4 Get & trust the data](workflow.md#stage-4--get-and-trust-the-data)** | ●● | ● | ○ | ○ | ●● | ● | ○ |
+| **[5 Analyse](workflow.md#stage-5--analyse)** | ●● | ●● | ● | ○ | ● | ● | ○ |
+| **[6 Synthesise into insight](workflow.md#stage-6--synthesise-into-insight)** | ● | ●● | ●● | ● | ○ | ○ | ● |
+| **[7 Recommend & communicate](workflow.md#stage-7--recommend-and-communicate)** | ○ | ● | ●● | ●● | ●● | ● | ○ |
+| **[8 Drive the decision & measure](workflow.md#stage-8--drive-the-decision-and-measure-the-outcome)** | ○ | ○ | ●● | ● | ●● | ●● | ●● |
 
 ●● primary · ● supporting · ○ minor
 
-**Two things the matrix makes visible.** Technical craft is primary in only two of eight stages. Collaboration & influence is primary in five. Most candidates prepare in inverse proportion.
+**Three things the matrix makes visible.** Technical craft is primary in only two of eight stages. Collaboration & influence is primary in five. Opportunity sense sits at both ends of the loop — where asks come from and where outcomes lead — and is the ability that turns "receive the ask" into "find the ask". Most candidates prepare in inverse proportion to all three.
 
 **How to read it.** Down a column: where an ability is exercised, and so where to practise it. Across a row: what a stage demands, and so what an interviewer probing that stage is really assessing.
 
 Each column header links to that ability's file in [`competencies/`](competencies/): a definition, the concepts and frameworks it draws on, where it shows up in the workflow, what good looks like at junior, mid, and senior level, and the questions that probe it. Each row links to that stage on the workflow page.
+
+---
+
+Underneath the abilities sit seven **dispositions** — curiosity, scepticism, tolerance for ambiguity, bias to action, intellectual honesty, pragmatism about depth, working in the open. They are not skills; they are how you tend to act when nobody has told you what to do, and they are what interviewers are really listening for. [The person behind the abilities →](dispositions.md)
 
 ---
 
@@ -68,6 +72,8 @@ Expectations differ by where you are in your working life — not in *which* sta
 | **[Advancing](phases/advancing.md)** | Moving from doing the work to shaping it | The matrix inverts: craft becomes something you review, judgment and influence become most of the job. Read the senior column of every ability table. |
 | **[Reproducing](phases/reproducing.md)** | Hiring, onboarding, mentoring, building a team | The standard becomes something you transmit. How to use this repo to onboard, review, and hire. |
 
+What makes a career go well is not only being good but being known to be good by the people who decide. [Career capital](phases/README.md#career-capital) says how that is built, phase by phase.
+
 Preparing for interviews? Every stage and every ability has an **Interview lens** with the questions asked, what interviewers want, and worked answers. The [`interview/`](interview/) folder has the cross-cutting material.
 
 ---
@@ -85,7 +91,7 @@ One realistic case carried through all eight stages. Half the drop turns out to 
 Three structures, one spine:
 
 - **Stages** are the spine. Content lives here, on one page ([workflow.md](workflow.md)). Each stage has the same four sections — what this stage is · hard skills · judgment & business skills · interview lens — plus the running example and a With AI note.
-- **Abilities** are the lens. Each competency file defines one ability and indexes back into the stages. They hold the level tables and the behavioural interview material.
+- **Abilities** are the lens. Seven of them. Each competency file defines one ability and indexes back into the stages. They hold the level tables and the behavioural interview material.
 - **Phases** are the doors. Each is a reading path through the above for a point in your career, plus the few things specific to that phase.
 
 ```
@@ -93,7 +99,8 @@ Three structures, one spine:
 ├── README.md                 ← you are here
 ├── phases/                   ← Becoming · Working · Advancing · Reproducing
 ├── workflow.md               ← the eight stages, fully worked, on one page
-├── competencies/             ← the six abilities + working with AI
+├── competencies/             ← the seven abilities + working with AI
+├── dispositions.md           ← the person behind the abilities
 ├── running-example/          ← the checkout-conversion case, with artefacts
 ├── interview/                ← cross-cutting interview material
 └── resources.md              ← curated reading, by stage
