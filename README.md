@@ -1,4 +1,4 @@
-# Working as a Business Data Scientists
+# Working as a Business Data Scientist
 
 **The workflow, the abilities, and what good looks like — from entering the field to teaching it.**
 
