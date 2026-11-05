@@ -85,38 +85,30 @@ One workflow, but the weight shifts by role:
 
 ## 5 · Where are you?
 
-Everything above describes the job as a **competent, mid-level practitioner** does it: someone who can take an ambiguous ask through all eight stages, draw on all six abilities, and use AI agents without being used by them. That is the standard the rest of the repo is written to.
+Everything in Part I describes the job at a **competent, mid-level** standard: take an ambiguous ask through all eight stages, drawing on all six abilities. That is the baseline the whole repo is written to.
 
-Expectations differ by where you are in your working life — not in *which* stages and abilities apply, but in how much of each you own and how far your judgment is trusted. Each ability file has a junior / mid / senior table that spells this out. The four pages below turn those tables into a reading path for your situation:
+What changes with experience is not *which* stages and abilities apply, but how much of each you own and how far your judgment is trusted. Pick your phase; each page is a reading path for it.
 
-| | You are… | What changes from the mid-level standard |
+| Phase | You are… | What to focus on |
 |---|---|---|
-| **[Becoming](phases/becoming.md)** | Entering the field, or switching into it | You are building toward it. Read the framework once through, then Stages 2, 4, 7, and build one end-to-end case. |
-| **[Working](phases/working.md)** | In the job, roughly your first three years | You have the technical half; the gap is Stages 1, 3, 8 — the ones nobody trained you for — and the collaboration file. |
-| **[Advancing](phases/advancing.md)** | Moving from doing the work to shaping it | The matrix inverts: craft becomes something you review, judgment and influence become most of the job. Read the senior column of every ability table. |
-| **[Reproducing](phases/reproducing.md)** | Hiring, onboarding, mentoring, building a team | The standard becomes something you transmit. How to use this repo to onboard, review, and hire. |
+| **[Becoming](phases/becoming.md)** | Entering the field, or switching into it | Read the workflow once. Then Stages 2, 4 and 7. Build one end-to-end case. |
+| **[Working](phases/working.md)** | In the job, first three years or so | You have the technical half. The gap is Stages 1, 3 and 8, and [collaboration](competencies/collaboration.md). |
+| **[Advancing](phases/advancing.md)** | Moving from doing the work to shaping it | Craft becomes something you review; judgment and influence become the job. Read the senior column of every ability table. |
+| **[Reproducing](phases/reproducing.md)** | Hiring, onboarding, mentoring, building a team | The standard is now something you pass on. How to use this repo to onboard, review and hire. |
 
-Preparing for interviews? Every stage and every ability has an **Interview lens** with the questions asked, what interviewers want, and worked answers. The [`interview/`](interview/) folder has the cross-cutting material.
+Preparing for interviews? Every stage and every ability page has an **Interview lens**: the questions asked, what interviewers want, worked answers. The [`interview/`](interview/) folder has the rest.
 
 ## 6 · A successful career
 
-Being good at the job is necessary and not sufficient. Three things separate the analysts who advance from the ones who stay useful.
+Being good at the job gets you hired. Three things decide what happens after. Each is a kind of person you have probably met.
 
-**1. They find their own work.** The workflow begins with "receive the ask", but the best analysis you do this year may be one nobody asked for — and the second best may be the one that stopped something from being built. This has two halves:
+| | The analyst who… | What they do that others don't | Read |
+|---|---|---|---|
+| **1** | **finds the work** | Brings a sized opportunity before anyone asks — a funnel leak nobody owns, a metric that drifted, a pattern in the support tickets. Just as often, stops something from being built by sizing it honestly. | [Finding the ask](career/finding-the-ask.md) |
+| **2** | **you'd trust without checking** | Asks "why?" once more. Predicts the number before running the query. Says "I don't know" and "I was wrong" out loud. Ships the rough answer on Tuesday. Works where others can see. | [The person behind the abilities](career/dispositions.md) |
+| **3** | **the right people know** | Known to be good by the handful of people who decide — a manager, two senior peers, the people they ask — because those people have seen the work. Teaching and writing extend that reach. | [Career capital](career/career-capital.md) |
 
-| Finding opportunities | Sizing and judging them — yours and other people's |
-|---|---|
-| **The leak scan** — which funnel step loses the most and has no owner | **Opportunity sizing** — reach × impact × confidence, in business units |
-| **Unowned metrics** — which numbers moved and nobody noticed | **Cost of delay** — what each week of not doing it costs |
-| **Segment outliers** — which group behaves very differently, and why | **Cheapest test first** — the smallest thing that would tell you if it's real |
-| **Friction in the qualitative data** — what users say in their own words | **Pre-mortem** — if this fails, why will it have failed |
-| **The "if we did nothing" baseline** — where the trend goes by itself | **Kill criteria** — what result would make you stop |
-
-→ [Finding the ask](career/finding-the-ask.md) — the full toolkit, what good looks like by level, and the interview questions that probe it.
-
-**2. They act a certain way when nobody is directing them.** Curiosity that goes one step further · scepticism, including of yourself · tolerance for ambiguity · bias to action · intellectual honesty · pragmatism about depth · working in the open. → [The person behind the abilities](career/dispositions.md)
-
-**3. They are known to be good by the people who decide.** Trust with a small number of people who matter, built through work others can see, extended by teaching and writing. → [Career capital](career/career-capital.md)
+The three feed each other: finding the work makes you visible, the dispositions make the work trustworthy, and trust with the right people is what the first two add up to. The toolkit for the first one — how to find opportunities and how to size them — is on its page; it is the most concrete of the three and the one most often missing.
 
 ---
 
