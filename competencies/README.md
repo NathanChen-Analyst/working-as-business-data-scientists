@@ -1,4 +1,4 @@
-# The seven abilities (+ working with AI)
+# The six abilities (+ working with AI)
 
 The [matrix](../README.md#abilities-by-stage-the-matrix) says *where* each ability is exercised; these files say *what* it is. Every file follows the same structure, so once you have read one you know how to read the rest:
 
@@ -12,9 +12,8 @@ definition and why it matters · where it shows up in the workflow · **the tool
 | [Communication](communication.md) | Answer-first structure, audience, charts, difficult news, handling challenge | 7 |
 | [Collaboration & influence](collaboration.md) | Working with product, data engineering, engineering, and other analysts; getting decisions made without owning them | 1, 3, 4, 7, 8 |
 | [Ownership & delivery](ownership-and-delivery.md) | Prioritising, time-boxing, managing up, following through, leaving things reusable | 8 |
-| [Opportunity sense](opportunity-sense.md) | Finding your own asks, sizing them, judging other people's initiatives, and knowing when to stop | 1, 8 |
 | [Working with AI](working-with-ai.md) | Delegating tasks to agents, verifying what comes back, evaluating whether an agent is fit for a kind of work | cross-cutting |
 
 The junior / mid / senior tables in each file are the detail behind the four [phases](../phases/).
 
-Underneath all of them: [the person behind the abilities](../dispositions.md) — the seven dispositions.
+Before Stage 1 and after Stage 8: [finding the ask](../finding-the-ask.md). Underneath all of them: [the person behind the abilities](../dispositions.md) — the seven dispositions.

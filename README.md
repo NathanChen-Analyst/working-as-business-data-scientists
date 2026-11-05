@@ -16,7 +16,7 @@ Eight stages in three bands — what you do at each, and what exists when you ar
 
 <p align="center"><img src="assets/framework.svg" alt="The eight-stage workflow in three bands with an action and a result for each stage. Frame: 1 receive the ask, 2 frame the question, 3 define metrics and success. Analyse: 4 get and trust the data, 5 analyse, 6 synthesise into insight. Act: 7 recommend and communicate, 8 drive the decision and measure the outcome. The outcome of stage 8 becomes the next ask." width="860"></p>
 
-Machine learning and experimentation live inside Stage 5 as options, chosen when the question calls for them. The Frame and Act bands are where business judgment and persuasion do most of the work; the Analyse band is where technical skill does. Interviews probe all eight stages; most candidates prepare for the middle three.
+Machine learning and experimentation live inside Stage 5 as options, chosen when the question calls for them. Where the ask comes from in the first place — and how to find your own — is on [finding the ask](finding-the-ask.md). The Frame and Act bands are where business judgment and persuasion do most of the work; the Analyse band is where technical skill does. Interviews probe all eight stages; most candidates prepare for the middle three.
 
 The framework stitches together four established ideas — Google's *Ask → Prepare → Process → Analyse → Share → Act* process, Max Shron's CoNVO scoping framework, hypothesis-driven analysis from consulting, and decision-first framing — and deliberately differs from the ML lifecycles (CRISP-DM, TDSP), which assume the deliverable is a deployed model and compress framing and communication into single phases.
 
@@ -24,28 +24,32 @@ The framework stitches together four established ideas — Google's *Ask → Pre
 
 ## Abilities by stage (the matrix)
 
-A workflow alone hides whatever happens *across* stages — collaboration most of all, which is everywhere and therefore nowhere. So the eight stages are crossed with seven abilities:
+A workflow alone hides whatever happens *across* stages — collaboration most of all, which is everywhere and therefore nowhere. So the eight stages are crossed with six abilities:
 
-| | [Technical craft](competencies/technical-craft.md) | [Analytical reasoning](competencies/analytical-reasoning.md) | [Business acumen](competencies/business-acumen.md) | [Communication](competencies/communication.md) | [Collaboration & influence](competencies/collaboration.md) | [Ownership & delivery](competencies/ownership-and-delivery.md) | [Opportunity sense](competencies/opportunity-sense.md) |
-|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **[1 Receive the ask](workflow.md#stage-1--receive-the-ask)** | ○ | ● | ●● | ● | ●● | ○ | ●● |
-| **[2 Frame the question](workflow.md#stage-2--frame-the-question)** | ○ | ●● | ●● | ● | ● | ● | ● |
-| **[3 Define metrics & success](workflow.md#stage-3--define-metrics-and-success)** | ● | ●● | ●● | ● | ●● | ○ | ● |
-| **[4 Get & trust the data](workflow.md#stage-4--get-and-trust-the-data)** | ●● | ● | ○ | ○ | ●● | ● | ○ |
-| **[5 Analyse](workflow.md#stage-5--analyse)** | ●● | ●● | ● | ○ | ● | ● | ○ |
-| **[6 Synthesise into insight](workflow.md#stage-6--synthesise-into-insight)** | ● | ●● | ●● | ● | ○ | ○ | ● |
-| **[7 Recommend & communicate](workflow.md#stage-7--recommend-and-communicate)** | ○ | ● | ●● | ●● | ●● | ● | ○ |
-| **[8 Drive the decision & measure](workflow.md#stage-8--drive-the-decision-and-measure-the-outcome)** | ○ | ○ | ●● | ● | ●● | ●● | ●● |
+| | [Craft](competencies/technical-craft.md) | [Reasoning](competencies/analytical-reasoning.md) | [Business](competencies/business-acumen.md) | [Communication](competencies/communication.md) | [Collaboration](competencies/collaboration.md) | [Ownership](competencies/ownership-and-delivery.md) |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|
+| **[1 Receive the ask](workflow.md#stage-1--receive-the-ask)** | ○ | ● | ●● | ● | ●● | ○ |
+| **[2 Frame the question](workflow.md#stage-2--frame-the-question)** | ○ | ●● | ●● | ● | ● | ● |
+| **[3 Define metrics & success](workflow.md#stage-3--define-metrics-and-success)** | ● | ●● | ●● | ● | ●● | ○ |
+| **[4 Get & trust the data](workflow.md#stage-4--get-and-trust-the-data)** | ●● | ● | ○ | ○ | ●● | ● |
+| **[5 Analyse](workflow.md#stage-5--analyse)** | ●● | ●● | ● | ○ | ● | ● |
+| **[6 Synthesise into insight](workflow.md#stage-6--synthesise-into-insight)** | ● | ●● | ●● | ● | ○ | ○ |
+| **[7 Recommend & communicate](workflow.md#stage-7--recommend-and-communicate)** | ○ | ● | ●● | ●● | ●● | ● |
+| **[8 Drive the decision & measure](workflow.md#stage-8--drive-the-decision-and-measure-the-outcome)** | ○ | ○ | ●● | ● | ●● | ●● |
 
 ●● primary · ● supporting · ○ minor
 
-**Three things the matrix makes visible.** Technical craft is primary in only two of eight stages. Collaboration & influence is primary in five. Opportunity sense sits at both ends of the loop — where asks come from and where outcomes lead — and is the ability that turns "receive the ask" into "find the ask". Most candidates prepare in inverse proportion to all three.
+*Craft* = technical craft · *Reasoning* = analytical reasoning · *Business* = business acumen · *Collaboration* = collaboration & influence · *Ownership* = ownership & delivery. Each header links to the ability's page; each row to the stage.
+
+**Two things the matrix makes visible.** Technical craft is primary in only two of eight stages. Collaboration & influence is primary in five. Most candidates prepare in inverse proportion.
 
 **How to read it.** Down a column: where an ability is exercised, and so where to practise it. Across a row: what a stage demands, and so what an interviewer probing that stage is really assessing.
 
 Each column header links to that ability's file in [`competencies/`](competencies/): a definition, the concepts and frameworks it draws on, where it shows up in the workflow, what good looks like at junior, mid, and senior level, and the questions that probe it. Each row links to that stage on the workflow page.
 
 ---
+
+One thing sits outside the matrix because it happens *before* Stage 1 and *after* Stage 8: finding the ask yourself, and judging the initiatives other people propose. [Finding the ask →](finding-the-ask.md)
 
 Underneath the abilities sit seven **dispositions** — curiosity, scepticism, tolerance for ambiguity, bias to action, intellectual honesty, pragmatism about depth, working in the open. They are not skills; they are how you tend to act when nobody has told you what to do, and they are what interviewers are really listening for. [The person behind the abilities →](dispositions.md)
 
@@ -91,7 +95,7 @@ One realistic case carried through all eight stages. Half the drop turns out to 
 Three structures, one spine:
 
 - **Stages** are the spine. Content lives here, on one page ([workflow.md](workflow.md)). Each stage has the same four sections — what this stage is · hard skills · judgment & business skills · interview lens — plus the running example and a With AI note.
-- **Abilities** are the lens. Seven of them. Each competency file defines one ability and indexes back into the stages. They hold the level tables and the behavioural interview material.
+- **Abilities** are the lens. Each competency file defines one ability and indexes back into the stages. They hold the level tables and the behavioural interview material.
 - **Phases** are the doors. Each is a reading path through the above for a point in your career, plus the few things specific to that phase.
 
 ```
@@ -99,7 +103,8 @@ Three structures, one spine:
 ├── README.md                 ← you are here
 ├── phases/                   ← Becoming · Working · Advancing · Reproducing
 ├── workflow.md               ← the eight stages, fully worked, on one page
-├── competencies/             ← the seven abilities + working with AI
+├── finding-the-ask.md        ← before Stage 1 and after Stage 8
+├── competencies/             ← the six abilities + working with AI
 ├── dispositions.md           ← the person behind the abilities
 ├── running-example/          ← the checkout-conversion case, with artefacts
 ├── interview/                ← cross-cutting interview material

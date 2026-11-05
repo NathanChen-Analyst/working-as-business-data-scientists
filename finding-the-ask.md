@@ -1,8 +1,8 @@
-# Opportunity sense
+# Finding the ask
 
-*Noticing where value is being left on the table, sizing it, deciding whether it is worth pursuing, and bringing it to the people who can act — before anyone asks.*
+*What happens before Stage 1 and after Stage 8: noticing where value is being left on the table, sizing it, deciding whether it is worth pursuing, and bringing it to the people who can act — before anyone asks. Also its mirror image: judging the initiatives other people propose.*
 
-**On this page:** [Why it matters](#why-it-matters) · [Where it shows up](#where-it-shows-up-in-the-workflow) · [The toolkit](#the-toolkit) · [In practice](#in-practice) · [By level](#what-good-looks-like-by-level) · [Interview lens](#interview-lens) · [Resources](#resources)
+**On this page:** [Why it matters](#why-it-matters) · [Where it sits in the workflow](#where-it-sits-in-the-workflow) · [The toolkit](#the-toolkit) · [In practice](#in-practice) · [By level](#what-good-looks-like-by-level) · [Interview lens](#interview-lens) · [Resources](#resources)
 
 ---
 
@@ -12,26 +12,26 @@
 
 The workflow begins with "Receive the ask", which quietly assumes someone else finds the problem. Good analysts generate a meaningful share of their own asks — from a metric that drifted, a funnel step nobody owns, a complaint pattern in support tickets, a competitor's move. They also do the mirror image: they look at initiatives other people propose and say, with numbers, whether the thing is worth building.
 
-Job postings describe this as "identify strategic opportunities", "review new business initiatives and confirm their impact", "proactive", "results-oriented". It is the difference between an analyst who is useful and one who is indispensable, and it is the ability most often missing in people who are strong at everything else — because everything else can be done on request.
+Job postings describe this as "identify strategic opportunities", "review new business initiatives and confirm their impact", "proactive", "results-oriented". It is the difference between an analyst who is useful and one who is indispensable, and it is the thing most often missing in people who are strong at everything else — because everything else can be done on request.
 
 > **The one thing to remember:** the best analysis you do this year may be one nobody asked for. The second best may be the one that stopped something from being built.
 
 ---
 
-## Where it shows up in the workflow
+## Where it sits in the workflow
 
-*Primary at the two ends of the loop — where asks come from and where outcomes lead.*
+*At the two ends of the loop — where asks come from and where outcomes lead. It is not a seventh ability; it is the thing that starts the workflow, and it draws on all six.*
 
 | Stage | What it looks like there | Weight |
 |---|---|:-:|
-| [1 Receive the ask](../workflow.md#stage-1--receive-the-ask) | Finding the ask yourself; bringing a sized opportunity rather than waiting for a request | ●● |
-| [2 Frame the question](../workflow.md#stage-2--frame-the-question) | Framing around the opportunity's value, not only its cause | ● |
-| [3 Define metrics & success](../workflow.md#stage-3--define-metrics-and-success) | Choosing a metric that would show the opportunity was captured | ● |
-| [4 Get & trust the data](../workflow.md#stage-4--get-and-trust-the-data) | Noticing, while in the data for something else, the thing nobody is looking at | ○ |
-| [5 Analyse](../workflow.md#stage-5--analyse) | — | ○ |
-| [6 Synthesise into insight](../workflow.md#stage-6--synthesise-into-insight) | Spotting the finding that is bigger than the question | ● |
-| [7 Recommend & communicate](../workflow.md#stage-7--recommend-and-communicate) | Recommending what to do next, not only what was found | ○ |
-| [8 Drive the decision](../workflow.md#stage-8--drive-the-decision-and-measure-the-outcome) | The outcome of one project is the source of the next; keeping the list of what you noticed | ●● |
+| [1 Receive the ask](workflow.md#stage-1--receive-the-ask) | Finding the ask yourself; bringing a sized opportunity rather than waiting for a request | ●● |
+| [2 Frame the question](workflow.md#stage-2--frame-the-question) | Framing around the opportunity's value, not only its cause | ● |
+| [3 Define metrics & success](workflow.md#stage-3--define-metrics-and-success) | Choosing a metric that would show the opportunity was captured | ● |
+| [4 Get & trust the data](workflow.md#stage-4--get-and-trust-the-data) | Noticing, while in the data for something else, the thing nobody is looking at | ○ |
+| [5 Analyse](workflow.md#stage-5--analyse) | — | ○ |
+| [6 Synthesise into insight](workflow.md#stage-6--synthesise-into-insight) | Spotting the finding that is bigger than the question | ● |
+| [7 Recommend & communicate](workflow.md#stage-7--recommend-and-communicate) | Recommending what to do next, not only what was found | ○ |
+| [8 Drive the decision](workflow.md#stage-8--drive-the-decision-and-measure-the-outcome) | The outcome of one project is the source of the next; keeping the list of what you noticed | ●● |
 
 ---
 
@@ -68,7 +68,7 @@ Job postings describe this as "identify strategic opportunities", "review new bu
 
 ## In practice
 
-*The habits that make this ability routine.*
+*The habits that make this routine.*
 
 - **Keep an opportunity log** alongside the decision log: things you noticed, roughly sized, not yet pursued. Review it monthly. Most entries die; one or two a year become your best work.
 - **Bring one unasked finding to every stakeholder meeting.** Small is fine. It changes how people see you from "answers questions" to "finds things".
@@ -76,13 +76,13 @@ Job postings describe this as "identify strategic opportunities", "review new bu
 - **Propose the test, not the build.** Opportunity sense is not advocacy. Your job is to say what it might be worth and how to find out cheaply.
 - **Review proposals as if they were yours.** Pre-mortem, sizing, kill criteria. Being the person who makes other people's initiatives better is as valuable as having your own.
 - **Kill your own ideas in public.** When the sizing says no, say so, out loud. It is what makes people believe you when the sizing says yes.
-- **With AI:** agents are good at the leak scan and the qualitative classification — they can walk every funnel and read every ticket. They are bad at knowing which finding matters to this business now. See [working with AI](working-with-ai.md).
+- **With AI:** agents are good at the leak scan and the qualitative classification — they can walk every funnel and read every ticket. They are bad at knowing which finding matters to this business now. See [working with AI](competencies/working-with-ai.md).
 
 ---
 
 ## What "good" looks like by level
 
-*The same ability, at three depths.*
+*The same habit, at three depths.*
 
 | | Junior | Mid | Senior |
 |---|---|---|---|
@@ -96,7 +96,7 @@ Job postings describe this as "identify strategic opportunities", "review new bu
 
 ## Interview lens
 
-*How this ability is tested, and what interviewers are listening for.*
+*How this is tested, and what interviewers are listening for.*
 
 | Question | What they want to hear |
 |---|---|
@@ -123,3 +123,7 @@ Job postings describe this as "identify strategic opportunities", "review new bu
 - Teresa Torres, *Continuous Discovery Habits* — opportunity solution trees; the product-side version of this ability
 - Annie Duke, *Quit* — kill criteria and knowing when to stop
 - [Intercom's RICE article](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/) — the original description of the scoring method
+
+---
+
+This page draws on all six abilities: the leak scan is [technical craft](competencies/technical-craft.md); sizing is [business acumen](competencies/business-acumen.md); the pre-mortem is [analytical reasoning](competencies/analytical-reasoning.md); taking it to the right person is [collaboration](competencies/collaboration.md); the opportunity log is [ownership](competencies/ownership-and-delivery.md). The disposition behind it is [curiosity that goes one step further](dispositions.md#the-seven).
