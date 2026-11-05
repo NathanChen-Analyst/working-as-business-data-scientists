@@ -51,7 +51,7 @@
 
 ### Following through
 
-**The decision log** — *What did my work change?* One line per analysis: the ask, the recommendation, what was decided, what happened. It is your evidence at review time, your story bank for interviews, and the fastest way to notice which stages you avoid. Stage 8. *Running example:* "Checkout drop — recommended tracking fix + fallback test — both done — 1.8pp recovered — €X/week."
+**The decision log** — *What did my work change?* One line per analysis: the ask, the recommendation, what was decided, what happened. It is your evidence at review time, your story bank for interviews, and the fastest way to notice which stages you avoid. Stage 8. *Running example:* "Checkout drop — recommended tracking fix + fallback test — both done — 1.8pp recovered — about €22k of margin a week against the €24k sized."
 
 **The two-week follow-up** — *Did anything happen?* A calendar reminder after every delivery: was the recommendation acted on? If not, why not? Most analyses that fail, fail here, silently. Stage 8.
 

@@ -25,7 +25,7 @@
 
 ### Structure
 
-**Answer first (the Pyramid Principle)** — *What is the one thing they need to know?* Lead with the recommendation, then the supporting claims, then the evidence, then the detail. The reader can stop at any level and have the right picture. Stage 7, and every message longer than a sentence. *Running example:* "Fix tracking today; A/B test the payment fallback from Monday; expected recovery ~€X/week" is the first line of the memo, not the last.
+**Answer first (the Pyramid Principle)** — *What is the one thing they need to know?* Lead with the recommendation, then the supporting claims, then the evidence, then the detail. The reader can stop at any level and have the right picture. Stage 7, and every message longer than a sentence. *Running example:* "Fix tracking today; A/B test the payment fallback from Monday; expected recovery about €24k of margin a week" is the first line of the memo, not the last.
 
 **SCQA (Situation, Complication, Question, Answer)** — *How do I open so they want the answer?* Where we were, what changed, the question that raises, the answer. Four sentences that make any memo or deck readable. Stage 7.
 

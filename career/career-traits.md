@@ -1,6 +1,6 @@
 # Career traits
 
-*Step 2 of a successful career. Once you are known, you have to be picked — and what you are picked on, beyond the work itself, is a short list of traits. This page names them, from the inside: what each one feels like to have, what it feels like when it is missing, and how to grow it.*
+*Step 2 of a successful career. Once you are known, you have to be picked. You are picked on three things: evidence of the [abilities](../competencies/), a track record of outcomes, and — beyond the work itself — a short list of traits. The first two are the rest of this repo. This page names the third, from the inside: what each trait feels like to have, what it feels like when it is missing, and how to grow it.*
 
 **On this page:** [Why a structure](#why-a-structure) · [The seven traits](#the-seven-traits) · [Overdone](#each-one-overdone) · [How they are tested](#how-they-are-tested-in-selection) · [How to grow them](#how-to-grow-them) · [Where this comes from](#where-this-comes-from)
 
@@ -10,7 +10,7 @@
 
 *So the list is complete, not just plausible.*
 
-Lists of "traits for success" are usually someone's favourites. This one is built on the **Big Five** — the only model of personality with decades of evidence linking traits to career outcomes, and complete by construction: every trait anyone has measured loads onto one of its five dimensions. Two additions come from the models large companies use to identify high-potential people: **self-awareness** (from learning agility) and **grit** (sustained effort toward one direction over years).
+Lists of "traits for success" are usually someone's favourites. This one is built on the **Big Five** — the personality model with the most evidence linking traits to job performance and career success, and broad enough that most other trait lists can be mapped onto it. It is a map, not a proof of completeness: other models add dimensions (honesty–humility, for one), and the seven below are the facets that selection research and experience say matter for this job, not the whole of personality. One addition comes from the models large companies use to identify high-potential people: **self-awareness**, from the learning-agility work. **Grit** — sustained effort in one direction over years — is folded into follow-through, where the research places it.
 
 The traits are described here from your side, not an employer's: not "what companies select for" but "what you need to have or build, and how you'll know it is missing." The same traits that get you picked are the ones you can develop.
 
@@ -86,7 +86,8 @@ The [story bank](../interview/behavioural-story-bank-template.md) should carry o
 
 ## Where this comes from
 
-- **The Big Five / OCEAN** (Costa & McCrae; Barrick & Mount's meta-analyses): conscientiousness predicts performance across nearly all jobs; openness predicts success in analytical and creative work; emotional stability predicts performance under pressure; extraversion predicts advancement into leadership more than quality of work — a warning as much as a finding.
+- **Selection research** (Schmidt & Hunter's 1998 meta-analysis; Sackett and colleagues' 2022 revision): the strongest predictors of job performance that a hiring process can use are structured interviews, work samples and job-knowledge tests, and general mental ability; among personality traits, conscientiousness. This is why step 2 is three things — a work sample shows the abilities, a track record shows outcomes, and the interview reads the traits — and why the *Interview lens* throughout this repo is written as "what they want to hear" rather than as questions alone.
+- **The Big Five / OCEAN** (Costa & McCrae; Barrick & Mount's meta-analyses; Judge and colleagues on career success): conscientiousness predicts performance across nearly all jobs and is the strongest personality predictor of career success; emotional stability predicts performance under pressure and is the next strongest; openness predicts training performance and creative work; extraversion predicts emergence into leadership more than quality of work — a warning as much as a finding.
 - **Grit** (Duckworth): passion and perseverance for long-term goals; the research name for follow-through over years.
 - **Learning agility** (Lombardo & Eichinger; Korn Ferry): mental, people, change, and results agility plus self-awareness — the structure large companies use to identify high-potential people. Self-awareness is the dimension most often cited in senior selection.
 - **Give and Take** (Grant): givers finish both first and last; the difference is boundaries. The source of "generosity with a spine".

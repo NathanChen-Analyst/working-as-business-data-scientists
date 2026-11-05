@@ -2,7 +2,7 @@
 
 > **Definition.** Getting work done with and through other people: understanding what they need, agreeing what will be done, working alongside data engineering, product, engineering, and other analysts, and getting decisions made and resources committed when you own neither.
 
-**Why it matters more than it looks.** An analyst almost never owns the data pipeline, the product roadmap, the engineering backlog, or the final decision. Every piece of work depends on someone else building, approving, or acting. Collaboration is the primary ability in five of the eight workflow stages — more than any other — and it is what most behavioural interview questions are actually probing.
+**Why it matters more than it looks.** An analyst almost never owns the data pipeline, the product roadmap, the engineering backlog, or the final decision. Every piece of work depends on someone else building, approving, or acting. Collaboration is a primary ability in five of the eight workflow stages — second only to business acumen — and it is what most behavioural interview questions are actually probing.
 
 ---
 
@@ -126,4 +126,4 @@ Prepare one story for each; quantify the result; add one line on what you'd do d
 
 ---
 
-*Follows the shared structure for ability files: definition and why it matters · where it shows up in the workflow · the toolkit · how it looks in practice · what good looks like by level · interview lens · resources.*
+*Follows the shared structure for ability files, with one substitution: definition and why it matters · where it shows up in the workflow · the toolkit · the five relationships (in place of "how it looks in practice", because this ability is best described by who it is with) · what good looks like by level · interview lens · resources.*

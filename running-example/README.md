@@ -7,8 +7,10 @@ One realistic business case carried through all eight stages, with the actual ar
 | `00-the-ask.md` | 1 | The original message from the PM and the clarifying questions asked back |
 | `02-issue-tree.md` | 2 | The hypothesis tree and the scope agreement |
 | `04-data-checks.sql` | 4 | Reconciliation and data-quality queries that found the tracking break |
-| `05-segmentation.ipynb` | 5 | Funnel segmentation that isolated the real drop |
+| `05-segmentation.ipynb` | 5 | Funnel segmentation that isolated the real drop — *not yet added* |
 | `05-ab-test-design.md` | 5 | Experiment design for the payment-method fallback, including sample size |
 | `07-memo.md` | 7 | The one-page recommendation memo as sent |
 
 Data is synthetic. The point is the reasoning and the artefacts, not the numbers.
+
+**Status:** the artefacts are being written; files marked *To write* are placeholders. The case itself is complete in prose — the running-example paragraphs in each stage of the [workflow page](../workflow.md), the four-layer memo structure in [communication](../competencies/communication.md#explaining-statistical-results-to-non-technical-audiences), and the sizing in [business acumen](../competencies/business-acumen.md#the-quick-read) — and the artefacts will follow those numbers: an 8% headline drop, half of it a tracking break from the 14 October iOS release, a real ~4% drop concentrated in returning users on the new payment method, sized at ~€24k of margin a week, a fallback tested at 80% power to detect a 2pp lift, and a 1.8pp result with guardrails flat.

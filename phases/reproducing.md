@@ -11,7 +11,7 @@ Making the six abilities learnable by other people. Most of what senior analysts
 - **First quarter:** the junior column of each [competency](../competencies/) table as a shared, explicit expectation — written down, not assumed.
 
 ## Using it to review
-The four-section structure of each stage (what it is · hard skills · judgment · interview lens) doubles as a review rubric. When an analysis comes to you, ask the stage questions: was the ask framed? was the metric agreed? was the data reconciled? is there a recommendation, and would the analyst defend it? Reviewing against the workflow rather than against the output teaches the workflow.
+The section structure of each stage (what it is · hard skills · judgment · with AI · interview lens) doubles as a review rubric. When an analysis comes to you, ask the stage questions: was the ask framed? was the metric agreed? was the data reconciled? is there a recommendation, and would the analyst defend it? Reviewing against the workflow rather than against the output teaches the workflow.
 
 ## Using it to hire
 - The [matrix](../README.md#2--abilities-by-stage-the-matrix) is a hiring rubric: decide which abilities the role needs at which level, then design the loop to probe those stages. Most loops over-test Stage 5 and under-test Stages 1, 3, and 8.

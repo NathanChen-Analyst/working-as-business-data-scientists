@@ -22,7 +22,7 @@ This is not corruption; it is risk management. Hiring is expensive and often wro
 
 ## The two doors
 
-*Six ways to become known. The first is the open door; the other five are the network. They combine.*
+*Five routes to being known. The first is the open door; the other four are the network. They combine.*
 
 | Route | How it works | When it works best | What it depends on |
 |---|---|---|---|
@@ -43,11 +43,11 @@ The routes combine. Visible work strengthens an application and earns an introdu
 | Step | What to do | Why it works |
 |---|---|---|
 | **Target** | Apply to fewer roles, chosen because you can say specifically why you fit and what you would do in the first quarter. Ten targeted applications beat a hundred sprayed ones. | A targeted application reads as evidence of judgment — the first ability they are assessing. |
-| **Make the CV read as evidence** | Every line an outcome, sized: "Found a tracking break that accounted for half of a reported 8% conversion drop; fix recovered ~€X/week." Not "responsible for analysis of conversion." | Hiring managers skim for proof that you have done the thing. Outcomes are proof; responsibilities are not. |
+| **Make the CV read as evidence** | Every line an outcome, sized: "Found a tracking break that accounted for half of a reported 8% conversion drop; fix recovered about €24k of margin a week." Not "responsible for analysis of conversion." | Hiring managers skim for proof that you have done the thing. Outcomes are proof; responsibilities are not. |
 | **Attach a work sample** | A public repo, a written-up analysis, a short memo — something they can open and judge in five minutes. A repo like this one counts. | It turns a paper candidate into a seen one. It is the application's version of visible work. |
 | **Warm it if you can** | Before applying, find one person at the company — a second-degree contact, an alumnus, someone who posted about the team — and ask a specific question about the role. Then ask whether they would refer you. | A referral moves your application from the pile of hundreds to the pile of five. Most companies pay referral bonuses, so people are willing. |
 | **Write the cover note for the manager, not the recruiter** | Three short paragraphs: why this role specifically, the one or two things you have done that match it, what you would want to look at first. | The recruiter screens on keywords; the manager reads for fit and thinking. Write for the second reader. |
-| **Prepare the interview as a showing, not a telling** | The interview is where steps 1 and 2 meet: it is where you demonstrate the abilities, the traits, and the difference you have made. See the [interview guide](../interview/). | Everything in this repo has an *Interview lens* for this reason. |
+| **Know when this step is done** | The application's job is to get you the conversation. Once you have it, you are in step 2: the interview is where you are picked, not where you apply harder. Switch from telling to showing — see [career traits](career-traits.md#how-they-are-tested-in-selection) and the [interview guide](../interview/). | Treating the interview as the end of applying produces a candidate who repeats the CV. Treating it as the start of being chosen produces one who demonstrates the abilities, the track record, and the traits. |
 | **Follow up, briefly** | A short note after each conversation with one thing you thought about afterwards. | It is follow-through, shown rather than claimed. |
 
 > **The one thing to remember:** an application is not a weaker route; an *unprepared* application is. Targeted, evidenced, with a work sample and a referral, it is how most careers start — and it keeps working at every level.
@@ -109,4 +109,5 @@ Two things make the sequence work. **Reciprocity:** people want to repay help, a
 - **Structural holes** (Burt): people who connect otherwise separate groups get information and opportunities first. Being the analyst who talks to product, finance, and engineering is a structural advantage, not just a collaboration habit.
 - **Reciprocity** (Cialdini; Grant's *Give and Take*): helping first creates a pull to reciprocate; consistent givers outperform takers over a career, provided they are not doormats.
 - **Mere exposure and the frequency of contact**: trust and liking grow with repeated low-stakes contact. Six short useful exchanges beat one long impressive one.
+- **Performance, image, exposure** (Coleman, *Empowering Yourself*): the observation, from corporate advancement, that doing the work well is necessary but that being known and how you are read decide most of what happens next. The percentages often quoted with it are folklore; the ordering is what this page is built on.
 - **Career capital** (Newport): rare and valuable skills are what you trade for opportunity — which is why none of this works if the work behind it isn't good. See [career capital](career-capital.md).

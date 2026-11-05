@@ -6,7 +6,7 @@ Using data to guide decisions is fundamental to how businesses operate, which pu
 
 This repository organises those abilities around the workflow itself. By following a project stage by stage — from an initial, ambiguous ask to a measured decision — it makes visible where each ability is drawn on, what the deliverables look like, how AI agents change the division of labour, and how the standard shifts from entering the field to teaching it. One case runs through everything, with the actual artefacts an analyst would produce.
 
-It is written for data analysts, product analysts, and data scientists whose output is a business decision rather than a deployed model. The first half describes the job as a competent practitioner does it; the second half, [Part II](#part-ii--you-in-the-job), describes how the expectations shift from entering the field to teaching it.
+It is written for data analysts, product analysts, and data scientists whose output is a business decision rather than a deployed model. Part I describes the job as a competent practitioner does it; [Part II](#part-ii--you-in-the-job) describes how the expectations shift from entering the field to teaching it, and what makes a career go well; Part III holds the worked example and the map of the repo.
 
 ---
 
@@ -99,17 +99,17 @@ What changes with experience is not *which* stages and abilities apply, but how 
 
 ## 6 · A successful career
 
-A successful career is you and the company succeeding together. That takes three steps, and each round earns the next, one level up.
+A successful career is you and the company succeeding together. That takes three steps in sequence — you have to be *considered* before you can be *chosen*, and chosen before you can *deliver* — and each round earns the next, one level up.
 
 | Step | What it means | How it happens | Page |
 |---|---|---|---|
-| **1. Be known** | The people who decide know you exist and know what you can do. | Two doors: an application done well — targeted, evidenced, with a work sample and a referral — and the network: work they have seen, a reputation that reaches them, an introduction, being useful before asking. The balance shifts toward the network as roles get more senior. | [Being known](career/being-known.md) |
-| **2. Be picked** | Given the role, the project, the room. | Having the traits people select for — follow-through, ambition, courage, composure, generosity with a spine, structured curiosity, self-awareness — and showing them when it counts. | [Career traits](career/career-traits.md) |
-| **3. Make a difference** | Helping the business succeed: decisions changed, money and customers moved. | Finding the work rather than waiting for it; doing it the way a trusted person does; delivering outcomes, not analyses. | [Finding the ask](career/finding-the-ask.md) · [Dispositions](career/dispositions.md) |
+| **1. Be known** | The people who decide know you exist and roughly what you can do — enough to give you the conversation. The step ends when you are in the room. | Two doors. Early: the open door — a targeted application with a work sample, warmed by a referral. Increasingly: the network — work they have seen, a reputation that travels, an introduction, being useful before asking. | [Being known](career/being-known.md) |
+| **2. Be picked** | Chosen for the role, the project, the room — by an interview, or by people who have watched you work. | Being judged on three things and showing all three: the six abilities of Part I, a track record of outcomes (what step 3 produced last time round), and the traits people select for — follow-through, ambition, courage, composure, generosity with a spine, structured curiosity, self-awareness. | [Career traits](career/career-traits.md) |
+| **3. Make a difference** | Helping the business succeed: decisions changed, money and customers moved. | Finding the work rather than waiting for it; doing it the way a trusted person does; delivering outcomes, not analyses. The outcomes are the track record for the next round, and the people who saw them are how you become known one level up. | [Finding the ask](career/finding-the-ask.md) · [Dispositions](career/dispositions.md) |
 
-Being good at the job is the entry condition. Being known — through the open door early, through the network increasingly — is the mechanism, and the one nobody teaches. → [A successful career](career/) for the whole of it, including [career capital](career/career-capital.md), what the three steps accumulate into.
+Being good at the job is the entry condition, not the mechanism. The mechanism is the loop: known gets you considered, picked gets you the chance, the difference you make gets you known to the next circle. → [A successful career](career/) for the whole of it, including [career capital](career/career-capital.md), what the three steps accumulate into.
 
-**The interview** is where the first two steps are shown: the abilities, the traits, and the difference you have made so far. Every stage and every ability page has an *Interview lens* with the questions asked, what interviewers want, and worked answers; the [interview guide](interview/) holds what cuts across them, including the story bank.
+**The interview** is step 2 made formal. Step 1 is what got you into it; what happens inside it is the showing — the abilities, the track record, the traits. Every stage and every ability page has an *Interview lens* with the questions asked, what interviewers want, and worked answers; the [interview guide](interview/) holds what cuts across them, including the story bank.
 
 ---
 
@@ -127,7 +127,7 @@ One realistic case carried through all eight stages. Half the drop turns out to 
 
 Three structures, one spine:
 
-- **Stages** are the spine. Content lives here, on one page ([workflow.md](workflow.md)). Each stage has the same four sections — what this stage is · hard skills · judgment & business skills · interview lens — plus the running example and a With AI note.
+- **Stages** are the spine. Content lives here, on one page ([workflow.md](workflow.md)). Each stage has the same sections in the same order — what this stage is (with the running example) · hard skills · judgment & business skills · with AI · interview lens · resources.
 - **Abilities** are the lens. Each competency file defines one ability and indexes back into the stages. They hold the level tables and the behavioural interview material.
 - **Phases** are the doors. Each is a reading path through the above for a point in your career, plus the few things specific to that phase.
 - **Career** is what sits around all of it: being known, being picked, making a difference.
@@ -152,7 +152,7 @@ Written by [Nathan Chen](https://github.com/NathanChen-Analyst), a business data
 
 ## Contributing
 
-Contributions are welcome, especially worked interview answers (question, strong answer, common weak answers), anonymised real-world examples at any stage, and adaptations that teams have made for onboarding. Please open an issue before a large pull request, and keep the four-section structure for new stage content.
+Contributions are welcome, especially worked interview answers (question, strong answer, common weak answers), anonymised real-world examples at any stage, and adaptations that teams have made for onboarding. Please open an issue before a large pull request, and keep the section structure of the workflow page for new stage content.
 
 ## License
 

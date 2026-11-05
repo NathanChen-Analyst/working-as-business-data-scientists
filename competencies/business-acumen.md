@@ -18,7 +18,7 @@ Every ask comes from somewhere in the business, and every recommendation lands s
 
 ## Where it shows up in the workflow
 
-*Primary in six of the eight stages — more than any ability except collaboration.*
+*Primary in six of the eight stages — more than any other ability.*
 
 | Stage | What it looks like there | Weight |
 |---|---|:-:|

@@ -63,6 +63,10 @@ An agent can summarise the thread, pull up the existing dashboards, and list the
 - *"A PM says conversion is down. What do you do first?"* — Interviewers want to hear clarifying questions before any SQL: Over what period? Which funnel step? Which platforms and segments? Was anything shipped? Is it a real decline or a tracking change?
 - *"Tell me about a time a stakeholder asked for the wrong thing."* — Behavioural; see [The six abilities](competencies/).
 
+### Resources
+- Max Shron, *Thinking with Data* (O'Reilly, 2014) — ch. 1–2, on finding out what the person actually needs
+- Rob Fitzpatrick, *The Mom Test* — written for founders interviewing customers, and the best short guide to asking a stakeholder questions that get true answers rather than polite ones
+
 [↑ back to contents](#contents)
 
 ---
@@ -187,6 +191,7 @@ Before you can query anything you need to know how your organisation's data plat
 |---|---|---|---|
 | **Sources** | The systems where data is created: the product database, payment provider, CRM, ad platforms, support tool | Postgres/MySQL replicas, Stripe, Salesforce, HubSpot, Zendesk | Which system is the *source of truth* for each entity. Revenue lives in the payments system, not in the product events. |
 | **Event tracking** | Instrumentation that records what users do in the product | Segment, Amplitude, Mixpanel, Google Analytics, Snowplow, in-house | Client-side events can be blocked, duplicated, or renamed in a release; server-side events are more reliable but sparser. Know which yours are. |
+| **Ingestion** | Copying data from sources into the warehouse, usually on a schedule | Fivetran, Airbyte, Stitch, custom pipelines; Kafka for streaming | The load schedule sets the *freshness*. Check the load timestamp before reporting a "drop". |
 | **Warehouse / lakehouse** | Where everything is copied and stored for analysis | Snowflake, BigQuery, Redshift, Databricks; dbt-modelled schemas on top | The raw layer mirrors sources; the modelled layer is what you should query. Queries cost money on most platforms — know roughly what a scan costs. |
 | **Transformation** | The code that turns raw tables into clean, documented, tested models | dbt, Dataform, SQLMesh, Airflow/Dagster for orchestration | Read the model definitions. The lineage graph tells you where a column came from; the tests tell you what has been checked. |
 | **Semantic / metrics layer** | The agreed definitions of business metrics, encoded once | dbt metrics, Looker's LookML, Cube, a governed BI layer | If a metric exists here, use it. If your number differs from the governed one, you have to explain why before anyone will believe you. |
@@ -307,7 +312,7 @@ Agents run a competent first pass of EDA and segmentation and will happily fit a
 ### What this stage is
 Turn analysis output into a small number of claims someone can act on, each with a stated level of confidence. Findings are not insights; an insight says what the finding *means* for the decision.
 
-**Running example.** Three claims: (1) half the headline drop is a tracking break — fix the instrumentation; (2) the real drop is a payment-method failure for returning users, costing ~€X/week; (3) the proposed fallback is testable in two weeks and we have the sample to detect a 2pp effect.
+**Running example.** Three claims: (1) half the headline drop is a tracking break — fix the instrumentation; (2) the real drop is a payment-method failure for returning users, costing about €24k of margin a week; (3) the proposed fallback is testable in two weeks and we have the sample to detect a 2pp effect.
 
 ### Hard skills
 - Effect-size and uncertainty communication
@@ -327,6 +332,10 @@ An agent will produce fifteen findings with equal confidence. Synthesis is choos
 - *"How confident are you in that conclusion, and why?"*
 - Take-home assignments are scored heavily on this stage — reviewers look for whether you drew conclusions or just produced charts.
 
+### Resources
+- Andrew Gelman & Eric Loken, ["The garden of forking paths"](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf) — why the fifteen findings are not fifteen findings
+- Philip Tetlock & Dan Gardner, *Superforecasting* — calibrated confidence as a habit, which is what "likely" and "possible" have to mean
+
 [↑ back to contents](#contents)
 
 ---
@@ -342,7 +351,7 @@ An agent will produce fifteen findings with equal confidence. Synthesis is choos
 ### What this stage is
 Deliver a recommendation, structured so the audience can act on it, in the format and length they will actually consume. This is the stage where most of the value is created or lost.
 
-**Running example.** A one-page memo: recommendation first ("Fix tracking today; A/B test the payment fallback starting Monday; expected recovery of ~€X/week if it works"), then the three supporting claims, then caveats and next steps. Appendix with the detailed segmentation for anyone who wants it.
+**Running example.** A one-page memo: recommendation first ("Fix tracking today; A/B test the payment fallback starting Monday; expected recovery of about €24k of margin a week if it works"), then the three supporting claims, then caveats and next steps. Appendix with the detailed segmentation for anyone who wants it.
 
 ### Hard skills
 - Data visualisation: chart choice, decluttering, annotation, one message per chart
@@ -380,7 +389,7 @@ First drafts are nearly free now. What remains scarce is knowing what this audie
 ### What this stage is
 An analysis that doesn't change anything was a cost, not a contribution. This stage is about making sure a decision gets made, the action gets taken, and the outcome gets measured — which becomes the next ask.
 
-**Running example.** Tracking is fixed; the A/B test ships; two weeks later the fallback shows a 1.8pp lift on the primary metric with guardrails flat. Rollout decision made. Three months later: is the lift still there? Did it change the metric definition conversation?
+**Running example.** Tracking is fixed; the A/B test ships; two weeks later the fallback shows a 1.8pp lift on the primary metric with guardrails flat. Rollout decision made. Three months later: is the lift still there, and did the ~€24k/week materialise? Did it change the metric definition conversation?
 
 ### Hard skills
 - Experiment monitoring and post-launch measurement
@@ -399,6 +408,10 @@ Agents can set up monitoring queries and draft the follow-up messages. They cann
 ### Interview lens
 - *"Tell me about a project and its impact."* — Interviewers want a measurable outcome and your specific contribution, not a description of the method.
 - *"What happened after you delivered the analysis?"* — A surprisingly discriminating question; many candidates don't know.
+
+### Resources
+- Annie Duke, *Thinking in Bets* — separating the quality of a decision from the quality of its outcome, which is what post-launch measurement has to do
+- Kohavi, Tang, Xu, *Trustworthy Online Controlled Experiments* — the chapters on experimentation platforms and long-term effects, for what "is the lift still there?" involves
 
 [↑ back to contents](#contents)
 
