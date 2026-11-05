@@ -1,6 +1,6 @@
 # Interview guide
 
-*The interview is step 2 of a [successful career](../career/) — [being picked](../career/career-traits.md) — made formal. [Being known](../career/being-known.md) is what got you into the room; inside it, the job is to show three things: the abilities, the track record, and the traits. Everything in this repo has an Interview lens for that reason; this folder holds what cuts across them.*
+*The interview is step 2 of a [successful career](../README.md#6--a-successful-career) — [being picked](../career/career-traits.md) — made formal. [Being known](../career/being-known.md) is what got you into the room; inside it, the job is to show three things: the abilities, the track record, and the traits. Everything in this repo has an Interview lens for that reason; this folder holds what cuts across them.*
 
 Cross-cutting interview material. Stage-specific questions live in the [workflow page](../workflow.md); ability-specific behavioural questions live in `competencies/`. This folder holds the things that don't belong to one stage.
 

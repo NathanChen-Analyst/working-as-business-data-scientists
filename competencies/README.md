@@ -16,4 +16,4 @@ definition and why it matters · where it shows up in the workflow · **the tool
 
 The junior / mid / senior tables in each file are the detail behind the four [phases](../phases/).
 
-What sits around the abilities — finding your own work, the dispositions, career capital — is in [career/](../career/).
+What sits around the abilities — finding your own work, the dispositions, career capital — is in [A successful career](../README.md#6--a-successful-career).

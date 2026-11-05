@@ -99,15 +99,21 @@ What changes with experience is not *which* stages and abilities apply, but how 
 
 ## 6 · A successful career
 
-Part I says what the job is; this section is about getting the chance to do it. Being good at the job is necessary but it is not what gets you the role: the people who decide have to know you exist, and then they have to choose you. That makes three steps, in order, and each round earns the next one level up.
+A successful career is you and the company succeeding together. Being good at the job is necessary, but it does not by itself get you the role, the project, or the room: the people who decide have to know you exist, and then they have to choose you. So there are three steps, in order, and each round earns the next one level up.
 
-| Step | In one line | Page |
-|---|---|---|
-| **1. Be known** | The people who decide know you exist — through an application done well, or through the network. Ends when you have the conversation. | [Being known](career/being-known.md) |
-| **2. Be picked** | Chosen, on evidence of the abilities, a track record, and the traits people select for. The interview is this step made formal. | [Career traits](career/career-traits.md) |
-| **3. Make a difference** | Decisions changed, money and customers moved. What this produces is the track record and reputation for the next round. | [Finding the ask](career/finding-the-ask.md) · [Dispositions](career/dispositions.md) |
+**Step 1 — Be known.** The people who decide know you exist and roughly what you can do. There are two doors. The open door is an application done well: targeted, evidenced, with a work sample and a referral. The network is work they have seen, a reputation that reaches them, an introduction, being useful before asking. The balance shifts toward the network as roles get more senior. The step ends when you have the conversation — an interview, or the informal version of one. → [Being known](career/being-known.md)
 
-The full account — how the steps connect, what they accumulate into, and the research behind them — is on [A successful career](career/). Every stage and every ability page has an *Interview lens* for step 2; the [interview guide](interview/) holds what cuts across them.
+**Step 2 — Be picked.** Chosen for the role, the project, the room. You are judged on three things: the six abilities of [Part I](#part-i--the-job); a track record of outcomes, which is what step 3 produced last time round; and the traits people select for beyond the work itself — follow-through, ambition, courage, composure, generosity with a spine, structured curiosity, self-awareness. The interview is this step made formal; for internal moves it is often a decision by people who have watched you work. The step ends when the decision is made. → [Career traits](career/career-traits.md)
+
+**Step 3 — Make a difference.** Doing the job in a way that helps the business succeed: decisions changed, money and customers moved. Finding the work rather than waiting for it; doing it the way a trusted person does; delivering outcomes, not analyses. This step does not end: the outcomes become the track record, and the people who saw them are the start of the next step 1. → [Finding the ask](career/finding-the-ask.md) · [Dispositions](career/dispositions.md)
+
+**The interview** belongs to step 2. Step 1 is what got you into it, and the common mistake is to treat the interview as the end of applying rather than the beginning of being chosen: applying is telling, the interview is showing. What is shown is the abilities, the track record, and the traits. Every stage and every ability page has an *Interview lens* for that — the questions asked, what interviewers want, worked answers — and the [interview guide](interview/) holds what cuts across them, including the story bank.
+
+**What the rounds accumulate into** — trust with the people who matter, work others can see, what you have taught — is [career capital](career/career-capital.md); what it looks like at each point in a career is on the [phase pages](phases/).
+
+> **The one thing to remember:** being good at the job gets you taken seriously; it does not get you chosen. Being known gets you considered, being picked gets you the chance, and the difference you then make is what gets you known one level up.
+
+*Where this comes from.* The sequence is old advice under several names; Coleman's *performance, image, exposure* is the best known. Step 1 rests on the social-capital research (weak ties, brokerage, reciprocity); step 2 on personnel-selection research — what predicts performance and what good hiring weighs — and on the Big Five plus self-awareness, which is where the seven traits are drawn from; step 3 is the rest of this repo. Each page says which sources it uses.
 
 ---
 
@@ -128,7 +134,7 @@ Three structures, one spine:
 - **Stages** are the spine. Content lives here, on one page ([workflow.md](workflow.md)). Each stage has the same sections in the same order — what this stage is (with the running example) · hard skills · judgment & business skills · with AI · interview lens · resources.
 - **Abilities** are the lens. Each competency file defines one ability and indexes back into the stages. They hold the level tables and the behavioural interview material.
 - **Phases** are the doors. Each is a reading path through the above for a point in your career, plus the few things specific to that phase.
-- **Career** is what sits around all of it: being known, being picked, making a difference.
+- **Career** is what sits around all of it — the three steps are in [§6](#6--a-successful-career); the pages behind them are in `career/`.
 
 ```
 .
@@ -136,7 +142,7 @@ Three structures, one spine:
 ├── phases/                   ← Becoming · Working · Advancing · Reproducing
 ├── workflow.md               ← the eight stages, fully worked, on one page
 ├── competencies/             ← the six abilities + working with AI
-├── career/                   ← be known · be picked · make a difference
+├── career/                   ← the pages behind §6: being known · traits · dispositions · finding the ask · career capital
 ├── running-example/          ← the checkout-conversion case, with artefacts
 ├── interview/                ← cross-cutting interview material
 └── resources.md              ← curated reading, by stage
