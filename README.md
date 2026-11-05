@@ -76,7 +76,23 @@ Preparing for interviews? Every stage and every ability has an **Interview lens*
 
 ## A successful career
 
-Being good at the job is necessary and not sufficient. Three things separate the analysts who advance from the ones who stay useful: they **find their own work** rather than waiting for the ask; they **act a certain way when nobody is directing them** — curious, sceptical, comfortable with ambiguity, biased to action, honest, pragmatic, working in the open; and they are **known to be good by the people who decide**, through work others can see. [A successful career →](career/)
+Being good at the job is necessary and not sufficient. Three things separate the analysts who advance from the ones who stay useful.
+
+**1. They find their own work.** The workflow begins with "receive the ask", but the best analysis you do this year may be one nobody asked for — and the second best may be the one that stopped something from being built. This has two halves:
+
+| Finding opportunities | Sizing and judging them — yours and other people's |
+|---|---|
+| **The leak scan** — which funnel step loses the most and has no owner | **Opportunity sizing** — reach × impact × confidence, in business units |
+| **Unowned metrics** — which numbers moved and nobody noticed | **Cost of delay** — what each week of not doing it costs |
+| **Segment outliers** — which group behaves very differently, and why | **Cheapest test first** — the smallest thing that would tell you if it's real |
+| **Friction in the qualitative data** — what users say in their own words | **Pre-mortem** — if this fails, why will it have failed |
+| **The "if we did nothing" baseline** — where the trend goes by itself | **Kill criteria** — what result would make you stop |
+
+→ [Finding the ask](career/finding-the-ask.md) — the full toolkit, what good looks like by level, and the interview questions that probe it.
+
+**2. They act a certain way when nobody is directing them.** Curiosity that goes one step further · scepticism, including of yourself · tolerance for ambiguity · bias to action · intellectual honesty · pragmatism about depth · working in the open. → [The person behind the abilities](career/dispositions.md)
+
+**3. They are known to be good by the people who decide.** Trust with a small number of people who matter, built through work others can see, extended by teaching and writing. → [Career capital](career/career-capital.md)
 
 ---
 
